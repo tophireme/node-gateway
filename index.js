@@ -1,10 +1,15 @@
 const express = require('express');
+var cors = require('cors')
+
 const postJobData = require('./route/postJobData')
 const getJobData = require('./route/getJobData')
 const getCompanyList = require('./route/getCompanyList')
 const getCompanySearchList = require('./route/getCompanySearchList')
+
 const app = express();
 const PORT = process.env.PORT || 3000;
+
+app.use(cors())
 app.use(express.json())
 
 app.get('/', (req, res)=>{
