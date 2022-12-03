@@ -27,7 +27,6 @@ app.get('/api/company', (req, res) => {
 })
 
 app.get('/api/search/company', (req, res) => {
-    console.log(req.query.query);
     getCompanySearchList(req, res)
 })
 

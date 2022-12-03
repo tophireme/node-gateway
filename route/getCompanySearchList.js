@@ -1,8 +1,11 @@
 module.exports = (req, res) => {
     var axios = require('axios');
-    var URL = 'http://localhost:1337/api/companies'
+    require('dotenv').config()
+
+    const BASEURL = process.env.BASEURL
+    var URL = ` ${BASEURL}/companies` 
     if (req.body.constructor === Object && Object.keys(req.body).length === 0) {
-        console.log('Object missing');
+        console.log('Body is Empty');
     } else {
         if (!(req.body.search === 0 || (req.body.search).trim() === 'null')) {
             URL = URL + `?filters[name][$containsi]=${req.body.search.trim()}`;

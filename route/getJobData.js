@@ -1,12 +1,12 @@
 module.exports = (req, res) => { 
 var axios = require('axios');
+require('dotenv').config()
 
-
-//var URL = 'http://20.24.80.251:1337/api/jobs?populate=*&';
-var URL = 'http://127.0.0.1:1337/api/jobs?populate=*';
+const BASEURL = process.env.BASEURL
+var URL = `${BASEURL}/jobs?populate=*`;
 
 if(req.body.constructor === Object && Object.keys(req.body).length === 0) {
-    console.log('Object missing');
+    console.log('Body is Empty');
   }
   else{
     if(!((req.body.location).trim() === 'null' || (req.body.location).trim() === '')){
