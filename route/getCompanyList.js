@@ -24,7 +24,7 @@ module.exports = (req, res) => {
             for (var i = 0; i < response.data.data.length; i++) {
                 var jobs = []
 
-                for(var k = 0; k<response.data.data[i].attributes.jobs.data.length; k++){
+                for (var k = 0; k < response.data.data[i].attributes.jobs.data.length; k++) {
                     jobs.push(
                         {
                             "job_id": response.data.data[i].attributes.jobs.data[k].attributes.job_id,
@@ -37,7 +37,7 @@ module.exports = (req, res) => {
 
                 var categories = []
 
-                for(var k = 0; k<response.data.data[i].attributes.categories.data.length; k++){
+                for (var k = 0; k < response.data.data[i].attributes.categories.data.length; k++) {
                     categories.push(response.data.data[i].attributes.categories.data[k].attributes.name)
                 }
 
