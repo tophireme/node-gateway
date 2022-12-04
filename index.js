@@ -16,9 +16,7 @@ app.get('/', (req, res)=>{
     res.send('success')
 })
 ///  company data imported
-const amazon = require('./input/amazon_data.json')
-const target = require('./input/target_data.json')
-const apple = require('./input/apple_data.json')
+
 const deloitte = require('./input/deloitte_data.json')
 const optum = require('./input/optum_data.json')
 const ey = require('./input/ey_data.json')
