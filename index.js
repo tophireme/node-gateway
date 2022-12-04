@@ -17,6 +17,7 @@ app.get('/', (req, res)=>{
 })
 ///  company data imported
 const amazon = require('./input/amazon_data.json')
+const target = require('./input/target_data.json')
 
 app.post('/api/job', (req, res) => {
     getJobData(req, res)
@@ -39,7 +40,21 @@ app.get('/api/insert/job/amazon', (req, res)=>{
     }
     res.json({
         "status": "Executed",
-        "total-job": amazon.length ,
+        "total-job": amazon.data.length ,
+    })
+
+})
+
+app.get('/api/insert/job/target', (req, res)=>{
+
+    console.log(target.data.length);
+    for (let index = 1; index < target.data.length; index++) {
+        
+        postJobData(target.data[index], target.company, target.career_page_url)
+    }
+    res.json({
+        "status": "Executed",
+        "total-job": target.data.length ,
     })
 
 })

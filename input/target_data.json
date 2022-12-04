@@ -1,0 +1,916 @@
+{
+    "company": "Target",
+    "career_page_url": "https://indiajobs.target.com",
+    "data": [
+        {
+            "job_id": "R0000264274",
+            "role": "Sr Engineer - Target India",
+            "job_family": "Technology Engineering",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-engineer-target-india/34386/40861446352"
+        },
+        {
+            "job_id": "R0000264765",
+            "role": "Lead Data Analyst",
+            "job_family": "Business Intelligence Reporting & Analytics",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/lead-data-analyst/34386/40806487920"
+        },
+        {
+            "job_id": "R0000264766",
+            "role": "Sr Data Analyst-3",
+            "job_family": "Business Intelligence Reporting & Analytics",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-data-analyst-3/34386/40806487200"
+        },
+        {
+            "job_id": "R0000264941",
+            "role": "Director Product Management - Space, Presentation & Transitions",
+            "job_family": "Technology Product Management",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/director-product-management-space-presentation-and-transitions/34386/40806486256"
+        },
+        {
+            "job_id": "R0000264768",
+            "role": "Sr Data Analyst-1",
+            "job_family": "Business Intelligence Reporting & Analytics",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-data-analyst-1/34386/40806485776"
+        },
+        {
+            "job_id": "R0000264940",
+            "role": "Director Product Management - Clearance",
+            "job_family": "Technology Product Management",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/director-product-management-clearance/34386/40806485264"
+        },
+        {
+            "job_id": "R0000264767",
+            "role": "Sr Data Analyst-2",
+            "job_family": "Business Intelligence Reporting & Analytics",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-data-analyst-2/34386/40806484656"
+        },
+        {
+            "job_id": "R0000258189",
+            "role": "Sr Engineering Manager",
+            "job_family": "Technology Engineering Management",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-engineering-manager/34386/40806483584"
+        },
+        {
+            "job_id": "R0000231621",
+            "role": "Manager Digital Operations and Guest Experience",
+            "job_family": "Technology Analysis",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/manager-digital-operations-and-guest-experience/34386/32940872688"
+        },
+        {
+            "job_id": "R0000256397",
+            "role": "Sr Spec Space & Presentation",
+            "job_family": "Merchandising Presentation",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-spec-space-and-presentation/34386/40750472320"
+        },
+        {
+            "job_id": "R0000261935",
+            "role": "Sr Engineer - Target India",
+            "job_family": "Technology Engineering",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-engineer-target-india/34386/40750472288"
+        },
+        {
+            "job_id": "R0000260479",
+            "role": "Sr Engineer (Infra Site Services)",
+            "job_family": "Technology Engineering",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-engineer-infra-site-services/34386/39955395152"
+        },
+        {
+            "job_id": "R0000264422",
+            "role": "Site Merchandiser",
+            "job_family": "Site Merchandising",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/site-merchandiser/34386/40750469168"
+        },
+        {
+            "job_id": "R0000264418",
+            "role": "Engineer - Target India",
+            "job_family": "Technology Engineering",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/engineer-target-india/34386/40750467152"
+        },
+        {
+            "job_id": "R0000258668",
+            "role": "Sr Engineering Manager - Target India",
+            "job_family": "Technology Engineering Management",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-engineering-manager-target-india/34386/40692800816"
+        },
+        {
+            "job_id": "R0000264638",
+            "role": "Item Data Analyst",
+            "job_family": "Product Content Management",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/item-data-analyst/34386/40692800784"
+        },
+        {
+            "job_id": "R0000264132",
+            "role": "Lead Specialist SPT - TII",
+            "job_family": "Merchandising Presentation",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/lead-specialist-spt-tii/34386/40634439824"
+        },
+        {
+            "job_id": "R0000264462",
+            "role": "Lead Program Manager",
+            "job_family": "Business Intelligence Reporting & Analytics",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/lead-program-manager/34386/40634438416"
+        },
+        {
+            "job_id": "R0000264119",
+            "role": "Director Enterprise Item - Target India",
+            "job_family": "Product Content Management",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/director-enterprise-item-target-india/34386/40634434992"
+        },
+        {
+            "job_id": "R0000263555",
+            "role": "Sr Specialist CSS",
+            "job_family": "Security & Loss Prevention",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-specialist-css/34386/40467395616"
+        },
+        {
+            "job_id": "R0000261294",
+            "role": "Visualization Artist",
+            "job_family": "Computer Generated Imagery",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/visualization-artist/34386/40467389584"
+        },
+        {
+            "job_id": "R0000212655",
+            "role": "Sr Engineer",
+            "job_family": "Technology Engineering",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-engineer/34386/40411251184"
+        },
+        {
+            "job_id": "R0000257484",
+            "role": "Engineer",
+            "job_family": "Technology Engineering",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/engineer/34386/40411251152"
+        },
+        {
+            "job_id": "R0000230618",
+            "role": "Manager Space & Presentation",
+            "job_family": "Merchandising Presentation",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/manager-space-and-presentation/34386/40411251120"
+        },
+        {
+            "job_id": "R0000264291",
+            "role": "Sr Analyst Properties",
+            "job_family": "Business Technology",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-analyst-properties/34386/40411251088"
+        },
+        {
+            "job_id": "R0000262073",
+            "role": "Sr Cybersecurity Analyst",
+            "job_family": "Cybersecurity",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-cybersecurity-analyst/34386/40354947792"
+        },
+        {
+            "job_id": "R0000258228",
+            "role": "Item Data Process Analyst",
+            "job_family": "Product Content Management",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/item-data-process-analyst/34386/40354947776"
+        },
+        {
+            "job_id": "R0000262369",
+            "role": "Marketing Ops Analyst",
+            "job_family": "Business Intelligence Reporting & Analytics",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/marketing-ops-analyst/34386/40354943792"
+        },
+        {
+            "job_id": "R0000263264",
+            "role": "Sr Manager Space & Presentation",
+            "job_family": "Merchandising Presentation",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-manager-space-and-presentation/34386/40354939696"
+        },
+        {
+            "job_id": "R0000229941",
+            "role": "Sr Engineer",
+            "job_family": "Technology Engineering",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-engineer/34386/40354933840"
+        },
+        {
+            "job_id": "R0000238963",
+            "role": "Sr Manager Digital",
+            "job_family": "Digital Marketing",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-manager-digital/34386/34989017424"
+        },
+        {
+            "job_id": "R0000263579",
+            "role": "Lead HR Specialist - Target India",
+            "job_family": "Human Resources Generalist",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/lead-hr-specialist-target-india/34386/40297063728"
+        },
+        {
+            "job_id": "R0000263964",
+            "role": "SENIOR AUTOMATION ENGINEER",
+            "job_family": "Technology Product Management",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/senior-automation-engineer/34386/40297051632"
+        },
+        {
+            "job_id": "R0000184090",
+            "role": "Sr Compliance Analyst",
+            "job_family": "Finance Process & Operations",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-compliance-analyst/34386/30958540032"
+        },
+        {
+            "job_id": "R0000255197",
+            "role": "Data Analyst",
+            "job_family": "Business Intelligence Reporting & Analytics",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/data-analyst/34386/40240497360"
+        },
+        {
+            "job_id": "R0000258923",
+            "role": "Lead Engineer - Target India",
+            "job_family": "Technology Engineering",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/lead-engineer-target-india/34386/40068020080"
+        },
+        {
+            "job_id": "R0000263401",
+            "role": "Senior Supply Chain Network Optimization Manager",
+            "job_family": "Data Science",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/senior-supply-chain-network-optimization-manager/34386/40068013536"
+        },
+        {
+            "job_id": "R0000263209",
+            "role": "Lead Specialist Store Design",
+            "job_family": "Space Planning & Design",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/lead-specialist-store-design/34386/40068007904"
+        },
+        {
+            "job_id": "R0000257319",
+            "role": "Engineer TP",
+            "job_family": "Building Operations Engineering",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/engineer-tp/34386/40068003376"
+        },
+        {
+            "job_id": "R0000208304",
+            "role": "Supply Chain Analyst-2",
+            "job_family": "Supply Chain Process & Operations",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/supply-chain-analyst-2/34386/40011142368"
+        },
+        {
+            "job_id": "R0000243229",
+            "role": "Tax Analyst",
+            "job_family": "Tax",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/tax-analyst/34386/40011142336"
+        },
+        {
+            "job_id": "R0000263025",
+            "role": "Senior Product Content Specialist-2",
+            "job_family": "Product Content Management",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/senior-product-content-specialist-2/34386/40011142320"
+        },
+        {
+            "job_id": "R0000263384",
+            "role": "Lead Counsel",
+            "job_family": "Law",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/lead-counsel/34386/40011142304"
+        },
+        {
+            "job_id": "R0000258662",
+            "role": "Sr Engineer - Intelligent Automation",
+            "job_family": "Technology Engineering",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-engineer-intelligent-automation/34386/39955395968"
+        },
+        {
+            "job_id": "R0000261298",
+            "role": "Sr Systems Analyst",
+            "job_family": "Business Technology",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-systems-analyst/34386/39955395056"
+        },
+        {
+            "job_id": "R0000238975",
+            "role": "Sr Engineer - Ad Tech",
+            "job_family": "Technology Engineering",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-engineer-ad-tech/34386/39955394448"
+        },
+        {
+            "job_id": "R0000259136",
+            "role": "Principal Engineer - Target India",
+            "job_family": "Technology Engineering",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/principal-engineer-target-india/34386/39955394400"
+        },
+        {
+            "job_id": "R0000259818",
+            "role": "Sr. Manager Data Analytics",
+            "job_family": "Business Intelligence Reporting & Analytics",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-manager-data-analytics/34386/38756769888"
+        },
+        {
+            "job_id": "R0000261891",
+            "role": "Sr Specialist Procurement Ops-2",
+            "job_family": "Finance Process & Operations",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-specialist-procurement-ops-2/34386/39842416192"
+        },
+        {
+            "job_id": "R0000241749",
+            "role": "HR Lead Process Specialist",
+            "job_family": "Service Center - Internal/External",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/hr-lead-process-specialist/34386/39625620352"
+        },
+        {
+            "job_id": "R0000261641",
+            "role": "Manager Item Data",
+            "job_family": "Product Content Management",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/manager-item-data/34386/39625620336"
+        },
+        {
+            "job_id": "R0000234926",
+            "role": "Sr Engineer - Target India",
+            "job_family": "Technology Engineering",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-engineer-target-india/34386/39613477264"
+        },
+        {
+            "job_id": "R0000262361",
+            "role": "Lead Engineer - Target India",
+            "job_family": "Technology Engineering",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/lead-engineer-target-india/34386/39613477248"
+        },
+        {
+            "job_id": "R0000243027",
+            "role": "Sr Manager Internal Audit",
+            "job_family": "Audit",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-manager-internal-audit/34386/39613472464"
+        },
+        {
+            "job_id": "R0000258719",
+            "role": "Lead Engineer - Target India",
+            "job_family": "Technology Engineering",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/lead-engineer-target-india/34386/39613468960"
+        },
+        {
+            "job_id": "R0000258922",
+            "role": "Sr Engineer - Target India",
+            "job_family": "Technology Engineering",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-engineer-target-india/34386/39613465040"
+        },
+        {
+            "job_id": "R0000261967",
+            "role": "Lead Engineer",
+            "job_family": "Technology Engineering",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/lead-engineer/34386/39613465008"
+        },
+        {
+            "job_id": "R0000259675",
+            "role": "Sr Data Analyst",
+            "job_family": "Business Intelligence Reporting & Analytics",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-data-analyst/34386/39555230336"
+        },
+        {
+            "job_id": "R0000261304",
+            "role": "Sr Mgr Fulfillment Optimization",
+            "job_family": "Data Science",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-mgr-fulfillment-optimization/34386/39496890192"
+        },
+        {
+            "job_id": "R0000258587",
+            "role": "Sr Engineer-Target India",
+            "job_family": "Technology Engineering",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-engineer-target-india/34386/39496884016"
+        },
+        {
+            "job_id": "R0000257731",
+            "role": "Sr Product Manager",
+            "job_family": "Technology Product Management",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-product-manager/34386/39496875440"
+        },
+        {
+            "job_id": "R0000233326",
+            "role": "Lead Engineer",
+            "job_family": "Technology Engineering",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/lead-engineer/34386/38987673136"
+        },
+        {
+            "job_id": "R0000260916",
+            "role": "Engineer - Target India",
+            "job_family": "Technology Engineering",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/engineer-target-india/34386/39439983168"
+        },
+        {
+            "job_id": "R0000252881",
+            "role": "Engineer",
+            "job_family": "Technology Engineering",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/engineer/34386/38987663104"
+        },
+        {
+            "job_id": "R0000232466",
+            "role": "Sr Product Manager, List and Gift Registry Capabilities - Target India",
+            "job_family": "Technology Product Management",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-product-manager-list-and-gift-registry-capabilities-target-india/34386/39218131216"
+        },
+        {
+            "job_id": "R0000243226",
+            "role": "Sr Mgr Store Design",
+            "job_family": "Space Planning & Design",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-mgr-store-design/34386/39161096272"
+        },
+        {
+            "job_id": "R0000258666",
+            "role": "Sr Business Partner D&I",
+            "job_family": "Diversity & Inclusion",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-business-partner-d-and-i/34386/39103671936"
+        },
+        {
+            "job_id": "R0000260911",
+            "role": "Lead DEI/CSR Specialist",
+            "job_family": "Diversity & Inclusion",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/lead-dei-csr-specialist/34386/39103671328"
+        },
+        {
+            "job_id": "R0000238102",
+            "role": "Analyst Payroll",
+            "job_family": "Payroll",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/analyst-payroll/34386/38814862848"
+        },
+        {
+            "job_id": "R0000258656",
+            "role": "Sr Marketplace Operations Analyst",
+            "job_family": "Business Process & Operations",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-marketplace-operations-analyst/34386/38814862816"
+        },
+        {
+            "job_id": "R0000258690",
+            "role": "Sr Engineer - Target India",
+            "job_family": "Technology Engineering",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-engineer-target-india/34386/38696627216"
+        },
+        {
+            "job_id": "R0000257691",
+            "role": "Sr Art Director CGI",
+            "job_family": "Computer Generated Imagery",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-art-director-cgi/34386/38696627120"
+        },
+        {
+            "job_id": "R0000233886",
+            "role": "Business Partner",
+            "job_family": "Merchandising Presentation",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/business-partner/34386/38696625568"
+        },
+        {
+            "job_id": "R0000257321",
+            "role": "Sr Specialist Property Mgmt-2",
+            "job_family": "Real Estate & Property Management",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-specialist-property-mgmt-2/34386/38696625552"
+        },
+        {
+            "job_id": "R0000235212",
+            "role": "Lead Engineer - Target India",
+            "job_family": "Technology Engineering",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/lead-engineer-target-india/34386/34106549280"
+        },
+        {
+            "job_id": "R0000258507",
+            "role": "Sr Product Manager",
+            "job_family": "Technology Product Management",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-product-manager/34386/38696625008"
+        },
+        {
+            "job_id": "R0000258500",
+            "role": "Sr Product Manager",
+            "job_family": "Technology Product Management",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-product-manager/34386/38696624992"
+        },
+        {
+            "job_id": "R0000243038",
+            "role": "Lead 3D Technical Artist",
+            "job_family": "Computer Generated Imagery",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/lead-3d-technical-artist/34386/36220177200"
+        },
+        {
+            "job_id": "R0000257871",
+            "role": "Lead Engineer - Target India",
+            "job_family": "Technology Engineering",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/lead-engineer-target-india/34386/38638712496"
+        },
+        {
+            "job_id": "R0000258134",
+            "role": "Sr Engineer - Target India",
+            "job_family": "Technology Engineering",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-engineer-target-india/34386/38348717792"
+        },
+        {
+            "job_id": "R0000257331",
+            "role": "Senior Product Manager",
+            "job_family": "Technology Product Management",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/senior-product-manager/34386/37880640448"
+        },
+        {
+            "job_id": "R0000253771",
+            "role": "Sr Product Designer",
+            "job_family": "User Experience & Interface",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-product-designer/34386/37820513936"
+        },
+        {
+            "job_id": "R0000239475",
+            "role": "Sr Art Director Graphic Design",
+            "job_family": "Graphic Design",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-art-director-graphic-design/34386/37820512496"
+        },
+        {
+            "job_id": "R0000228866",
+            "role": "Art Director",
+            "job_family": "Graphic Design",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/art-director/34386/37820511824"
+        },
+        {
+            "job_id": "R0000255709",
+            "role": "Sr HR Analyst, Tech Ops",
+            "job_family": "Business Technology",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-hr-analyst-tech-ops/34386/37814490512"
+        },
+        {
+            "job_id": "R0000233899",
+            "role": "Sr Engineer TP",
+            "job_family": "Space Planning & Design",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-engineer-tp/34386/37581694320"
+        },
+        {
+            "job_id": "R0000253187",
+            "role": "Sr Engineer - Java",
+            "job_family": "Technology Engineering",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-engineer-java/34386/37519749264"
+        },
+        {
+            "job_id": "R0000067160",
+            "role": "Sr Corporate Security Consultant",
+            "job_family": "Security & Loss Prevention",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-corporate-security-consultant/34386/36986685808"
+        },
+        {
+            "job_id": "R0000254662",
+            "role": "Pricing Analyst",
+            "job_family": "Pricing & Promotions",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/pricing-analyst/34386/36986685744"
+        },
+        {
+            "job_id": "R0000239878",
+            "role": "Lead Technical Program Manager",
+            "job_family": "Technology Project Management",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/lead-technical-program-manager/34386/36924140368"
+        },
+        {
+            "job_id": "R0000253497",
+            "role": "Sr Copywriter",
+            "job_family": "Editing/Writing",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-copywriter/34386/36693490560"
+        },
+        {
+            "job_id": "R0000253495",
+            "role": "Sr Copywriter",
+            "job_family": "Editing/Writing",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-copywriter/34386/36693487840"
+        },
+        {
+            "job_id": "R0000253503",
+            "role": "Sr Copywriter",
+            "job_family": "Editing/Writing",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-copywriter/34386/36693487376"
+        },
+        {
+            "job_id": "R0000253489",
+            "role": "Sr Copywriter",
+            "job_family": "Editing/Writing",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-copywriter/34386/36693484512"
+        },
+        {
+            "job_id": "R0000253499",
+            "role": "Copywriter",
+            "job_family": "Editing/Writing",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/copywriter/34386/36693478528"
+        },
+        {
+            "job_id": "R0000253502",
+            "role": "Copywriter",
+            "job_family": "Editing/Writing",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/copywriter/34386/36693476864"
+        },
+        {
+            "job_id": "R0000253481",
+            "role": "Art Director Digital",
+            "job_family": "Digital Marketing",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/art-director-digital/34386/36688129280"
+        },
+        {
+            "job_id": "R0000253478",
+            "role": "Art Director Digital",
+            "job_family": "Digital Marketing",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/art-director-digital/34386/36688121744"
+        },
+        {
+            "job_id": "R0000252875",
+            "role": "Lead Specialist SPT TII",
+            "job_family": "Merchandising Presentation",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/lead-specialist-spt-tii/34386/36633566208"
+        },
+        {
+            "job_id": "R0000241494",
+            "role": "Associate Planner-3",
+            "job_family": "Merchandise Planning",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/associate-planner-3/34386/36155946448"
+        },
+        {
+            "job_id": "R0000241498",
+            "role": "Sr Merch Planner-1",
+            "job_family": "Merchandise Planning",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-merch-planner-1/34386/36155946384"
+        },
+        {
+            "job_id": "R0000241845",
+            "role": "HR Data Operations Analyst-1",
+            "job_family": "Business Technology",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/hr-data-operations-analyst-1/34386/36155946304"
+        },
+        {
+            "job_id": "R0000241499",
+            "role": "Merch Planner-3",
+            "job_family": "Merchandise Planning",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/merch-planner-3/34386/36155876208"
+        },
+        {
+            "job_id": "R0000238726",
+            "role": "Sr L&D BP Design and Ops",
+            "job_family": "Learning & Development",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-l-and-d-bp-design-and-ops/34386/36155871616"
+        },
+        {
+            "job_id": "R0000241846",
+            "role": "HR Data Operations Analyst-1",
+            "job_family": "Business Technology",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/hr-data-operations-analyst-1/34386/36095616800"
+        },
+        {
+            "job_id": "R0000241844",
+            "role": "Sr HR Reporting Analyst-1",
+            "job_family": "Business Technology",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-hr-reporting-analyst-1/34386/36095606320"
+        },
+        {
+            "job_id": "R0000241748",
+            "role": "HR Analyst",
+            "job_family": "Business Technology",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/hr-analyst/34386/36095606048"
+        },
+        {
+            "job_id": "R0000240992",
+            "role": "Sr Benefits Business Partner",
+            "job_family": "Compensation & Benefits",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-benefits-business-partner/34386/35743655744"
+        },
+        {
+            "job_id": "R0000239492",
+            "role": "Sr Capability & Transitions Manager",
+            "job_family": "Project Management",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-capability-and-transitions-manager/34386/35516724336"
+        },
+        {
+            "job_id": "R0000235607",
+            "role": "Sr. Product Manager - Target India",
+            "job_family": "Technology Product Management",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-product-manager-target-india/34386/35047133744"
+        },
+        {
+            "job_id": "R0000233055",
+            "role": "Sr Engineer - Target India",
+            "job_family": "Technology Engineering",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-engineer-target-india/34386/34929996304"
+        },
+        {
+            "job_id": "R0000230980",
+            "role": "Director Product Design UX",
+            "job_family": "User Experience & Interface",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/director-product-design-ux/34386/34929991712"
+        },
+        {
+            "job_id": "R0000237426",
+            "role": "Sr Art Director Digital",
+            "job_family": "Digital Marketing",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-art-director-digital/34386/34929989104"
+        },
+        {
+            "job_id": "R0000232468",
+            "role": "Sr Product Manager, Gift Registry and Gift List Experiences - Target India",
+            "job_family": "Technology Product Management",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-product-manager-gift-registry-and-gift-list-experiences-target-india/34386/34637125216"
+        },
+        {
+            "job_id": "R0000218087",
+            "role": "Lead Engineer - Target India",
+            "job_family": "Technology Engineering",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/lead-engineer-target-india/34386/34637122640"
+        },
+        {
+            "job_id": "R0000231313",
+            "role": "BP Space & Presentation",
+            "job_family": "Merchandising Presentation",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/bp-space-and-presentation/34386/33743334576"
+        },
+        {
+            "job_id": "R0000232469",
+            "role": "Sr Product Manager - Target India",
+            "job_family": "Technology Product Management",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-product-manager-target-india/34386/33333326992"
+        },
+        {
+            "job_id": "R0000230185",
+            "role": "Lead Specialist Marketplace Operations",
+            "job_family": "Business Process & Operations",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/lead-specialist-marketplace-operations/34386/32631017632"
+        },
+        {
+            "job_id": "R0000227314",
+            "role": "CGI Texturing Artist",
+            "job_family": "Computer Generated Imagery",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/cgi-texturing-artist/34386/32513599152"
+        },
+        {
+            "job_id": "R0000227336",
+            "role": "Copywriter",
+            "job_family": "Editing/Writing",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/copywriter/34386/31891400992"
+        },
+        {
+            "job_id": "R0000218117",
+            "role": "Director SPT",
+            "job_family": "Merchandising Presentation",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/director-spt/34386/31371753152"
+        },
+        {
+            "job_id": "R0000218525",
+            "role": "Sr UI Engineer",
+            "job_family": "User Experience & Interface",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-ui-engineer/34386/31371762048"
+        },
+        {
+            "job_id": "R0000197200",
+            "role": "Art Director Digital",
+            "job_family": "Digital Marketing",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/art-director-digital/34386/31371740576"
+        },
+        {
+            "job_id": "R0000210485",
+            "role": "Sr Art Director design",
+            "job_family": "Graphic Design",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-art-director-design/34386/28580985616"
+        },
+        {
+            "job_id": "R0000197474",
+            "role": "Sr. Art Director Design",
+            "job_family": "Graphic Design",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-art-director-design/34386/26322808912"
+        },
+        {
+            "job_id": "R0000210487",
+            "role": "Art Director Design-2",
+            "job_family": "Graphic Design",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/art-director-design-2/34386/28580967824"
+        },
+        {
+            "job_id": "R0000195706",
+            "role": "Senior Engineer",
+            "job_family": "Technology Engineering",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/senior-engineer/34386/25765936000"
+        },
+        {
+            "job_id": "R0000197609",
+            "role": "Sr Production Designer - Target India",
+            "job_family": "Advertising & Promotion",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-production-designer-target-india/34386/26322760864"
+        },
+        {
+            "job_id": "R0000195145",
+            "role": "eMIP Sr Engineering Manager",
+            "job_family": "Technology Engineering",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/emip-sr-engineering-manager/34386/26014410976"
+        },
+        {
+            "job_id": "R0000168638",
+            "role": "Sr Art Director",
+            "job_family": "Advertising & Promotion",
+            "location": "Bangalore, KA",
+            "link-extension": "/job/bengaluru/sr-art-director/34386/24685489504"
+        }
+    ]
+}
