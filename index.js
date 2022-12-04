@@ -20,6 +20,8 @@ const amazon = require('./input/amazon_data.json')
 const target = require('./input/target_data.json')
 const apple = require('./input/apple_data.json')
 const deloitte = require('./input/deloitte_data.json')
+const ey = require('./input/ey_data.json')
+const optum = require('./input/optum.json')
 
 
 app.post('/api/job', (req, res) => {
@@ -32,6 +34,34 @@ app.post('/api/company', (req, res) => {
 
 app.post('/api/search/company', (req, res) => {
     getCompanySearchList(req, res)
+})
+
+app.get('/api/insert/job/optum', (req, res)=>{
+
+    console.log(optum.data.length);
+    for (let index = 1; index < optum.data.length; index++) {
+        
+        postJobData(optum.data[index], optum.company, optum.career_page_url)
+    }
+    res.json({
+        "status": "Executed",
+        "total-job": optum.data.length ,
+    })
+
+})
+
+app.get('/api/insert/job/ey', (req, res)=>{
+
+    console.log(ey.data.length);
+    for (let index = 1; index < ey.data.length; index++) {
+        
+        postJobData(ey.data[index], ey.company, ey.career_page_url)
+    }
+    res.json({
+        "status": "Executed",
+        "total-job": ey.data.length ,
+    })
+
 })
 
 app.get('/api/insert/job/amazon', (req, res)=>{
