@@ -49,62 +49,6 @@ app.get('/api/insert/job/optum', (req, res)=>{
 
 })
 
-app.get('/api/insert/job/ey', (req, res)=>{
-
-    console.log(ey.data.length);
-    for (let index = 1; index < ey.data.length; index++) {
-        
-        postJobData(ey.data[index], ey.company, ey.career_page_url)
-    }
-    res.json({
-        "status": "Executed",
-        "total-job": ey.data.length ,
-    })
-
-})
-
-app.get('/api/insert/job/amazon', (req, res)=>{
-
-    console.log(amazon.data.length);
-    for (let index = 1; index < amazon.data.length; index++) {
-        
-        postJobData(amazon.data[index], amazon.company, amazon.career_page_url)
-    }
-    res.json({
-        "status": "Executed",
-        "total-job": amazon.data.length ,
-    })
-
-})
-
-app.get('/api/insert/job/target', (req, res)=>{
-
-    console.log(target.data.length);
-    for (let index = 1; index < target.data.length; index++) {
-        
-        postJobData(target.data[index], target.company, target.career_page_url)
-    }
-    res.json({
-        "status": "Executed",
-        "total-job": target.data.length ,
-    })
-
-})
-
-app.get('/api/insert/job/apple', (req, res)=>{
-
-    console.log(apple.data.length);
-    for (let index = 1; index < apple.data.length; index++) {
-        
-        postJobData(apple.data[index], apple.company, apple.career_page_url)
-    }
-    res.json({
-        "status": "Executed",
-        "total-job": apple.data.length ,
-    })
-
-})
-
 app.get('/api/insert/job/deloitte', (req, res)=>{
 
     console.log(deloitte.data.length);
@@ -118,6 +62,8 @@ app.get('/api/insert/job/deloitte', (req, res)=>{
     })
 
 })
+
+
 
 app.listen(PORT, ()=>{
     console.log(`app running on port ${PORT}`);
