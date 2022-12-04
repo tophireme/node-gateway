@@ -18,15 +18,15 @@ app.get('/', (req, res)=>{
 ///  company data imported
 const amazon = require('./input/amazon.json')
 
-app.get('/api/job', (req, res) => {
+app.post('/api/job', (req, res) => {
     getJobData(req, res)
 })
 
-app.get('/api/company', (req, res) => {
+app.post('/api/company', (req, res) => {
     getCompanyList(req, res)
 })
 
-app.get('/api/search/company', (req, res) => {
+app.post('/api/search/company', (req, res) => {
     getCompanySearchList(req, res)
 })
 
