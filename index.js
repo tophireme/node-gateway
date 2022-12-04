@@ -17,7 +17,6 @@ app.get('/', (req, res)=>{
 })
 ///  company data imported
 
-const deloitte = require('./input/deloitte_data.json')
 const optum = require('./input/optum_data.json')
 const ey = require('./input/ey_data.json')
 
@@ -46,20 +45,21 @@ app.get('/api/insert/job/optum', (req, res)=>{
     })
 
 })
+app.get('/api/insert/job/ey', (req, res)=>{
 
-app.get('/api/insert/job/deloitte', (req, res)=>{
-
-    console.log(deloitte.data.length);
-    for (let index = 1; index < deloitte.data.length; index++) {
+    console.log(ey.data.length);
+    for (let index = 1; index < ey.data.length; index++) {
         
-        postJobData(deloitte.data[index], deloitte.company, deloitte.career_page_url)
+        postJobData(ey.data[index], ey.company, ey.career_page_url)
     }
     res.json({
         "status": "Executed",
-        "total-job": deloitte.data.length ,
+        "total-job": ey.data.length ,
     })
 
 })
+
+
 
 
 
