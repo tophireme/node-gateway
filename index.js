@@ -18,6 +18,9 @@ app.get('/', (req, res)=>{
 ///  company data imported
 const amazon = require('./input/amazon_data.json')
 const target = require('./input/target_data.json')
+const apple = require('./input/apple_data.json')
+const deloitte = require('./input/deloitte_data.json')
+
 
 app.post('/api/job', (req, res) => {
     getJobData(req, res)
@@ -55,6 +58,34 @@ app.get('/api/insert/job/target', (req, res)=>{
     res.json({
         "status": "Executed",
         "total-job": target.data.length ,
+    })
+
+})
+
+app.get('/api/insert/job/apple', (req, res)=>{
+
+    console.log(apple.data.length);
+    for (let index = 1; index < apple.data.length; index++) {
+        
+        postJobData(apple.data[index], apple.company, apple.career_page_url)
+    }
+    res.json({
+        "status": "Executed",
+        "total-job": apple.data.length ,
+    })
+
+})
+
+app.get('/api/insert/job/deloitte', (req, res)=>{
+
+    console.log(deloitte.data.length);
+    for (let index = 1; index < deloitte.data.length; index++) {
+        
+        postJobData(deloitte.data[index], deloitte.company, deloitte.career_page_url)
+    }
+    res.json({
+        "status": "Executed",
+        "total-job": deloitte.data.length ,
     })
 
 })
