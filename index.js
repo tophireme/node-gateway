@@ -23,7 +23,6 @@ const deloitte = require('./input/deloitte_data.json')
 const ey = require('./input/ey_data.json')
 const optum = require('./input/optum.json')
 
-
 app.post('/api/job', (req, res) => {
     getJobData(req, res)
 })
