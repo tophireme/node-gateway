@@ -1,0 +1,456 @@
+{
+    "company": "Deloitte",
+    "career_page_url": "https://jobsindia.deloitte.com",
+    "data": [
+        {
+            "job_id": "8333444",
+            "role": "Consulting- SA&MA- Analytics and Cognitive-Director",
+            "location": "Kolkata, IN",
+            "link-extension": "/job/Kolkata-Consulting-SA&MA-Analytics-and-Cognitive-Director/8333444/"
+        },
+        {
+            "job_id": "12039444",
+            "role": "A&A - AIC Intern - Ahmedabad",
+            "location": "Ahmedabad, IN",
+            "link-extension": "/job/Ahmedabad-A&A-AIC-Intern-Ahmedabad/12039444/"
+        },
+        {
+            "job_id": "12039544",
+            "role": "A&A - AIC Intern - Delhi 1",
+            "location": "Delhi, IN",
+            "link-extension": "/job/Delhi-A&A-AIC-Intern-Delhi-1/12039544/"
+        },
+        {
+            "job_id": "11952044",
+            "role": "ER- Consulting-SA&MA- A&C - Databricks",
+            "location": "Bengaluru, IN",
+            "link-extension": "/job/Bengaluru-ER-Consulting-SA&MA-A&C-Databricks/11952044/"
+        },
+        {
+            "job_id": "11695144",
+            "role": "RA-A&IC-Internal audit",
+            "location": "Mumbai, IN",
+            "link-extension": "/job/Kolkata-RA-A&IC-Internal-audit/11695144/"
+        },
+        {
+            "job_id": "12045744",
+            "role": "RA-A&IC-Internal Audit-SeniorExecutive",
+            "location": "Delhi, IN",
+            "link-extension": "/job/Delhi-RA-A&IC-Internal-Audit-SeniorExecutive/12045744/"
+        },
+        {
+            "job_id": "12047344",
+            "role": "RA-A&IC-Internal Audit-Executive",
+            "location": "Kolkata, IN",
+            "link-extension": "/job/Kolkata-RA-A&IC-Internal-Audit-Executive/12047344/"
+        },
+        {
+            "job_id": "12045644",
+            "role": "RA-A&IC-Internal Audit-SeniorExecutive",
+            "location": "Delhi, IN",
+            "link-extension": "/job/Delhi-RA-A&IC-Internal-Audit-SeniorExecutive/12045644/"
+        },
+        {
+            "job_id": "12045944",
+            "role": "RA-A&IC-Internal Audit",
+            "location": "Delhi, IN",
+            "link-extension": "/job/Delhi-RA-A&IC-Internal-Audit/12045944/"
+        },
+        {
+            "job_id": "12065344",
+            "role": "RA-A&IC-IA-AM-NFS",
+            "location": "Mumbai - IThink, IN",
+            "link-extension": "/job/Mumbai-IThink-RA-A&IC-IA-AM-NFS/12065344/"
+        },
+        {
+            "job_id": "12073644",
+            "role": "RA-A&IC-Internal audit-FS-DM",
+            "location": "Delhi, IN",
+            "link-extension": "/job/Delhi-RA-A&IC-Internal-audit-FS-DM/12073644/"
+        },
+        {
+            "job_id": "11952144",
+            "role": "ER_ Consulting-SA&MA- A&C - Ab Initio",
+            "location": "Pune, IN",
+            "link-extension": "/job/Pune-ER_-Consulting-SA&MA-A&C-Ab-Initio/11952144/"
+        },
+        {
+            "job_id": "4336444",
+            "role": "Consulting-SA&MA-A&C- Azure 1",
+            "location": "Bengaluru, IN",
+            "link-extension": "/job/Bengaluru-Consulting-SA&MA-A&C-Azure-1/4336444/"
+        },
+        {
+            "job_id": "9085444",
+            "role": "Consulting - Business Operations-Cloud Engineering- Power BI",
+            "location": "Bengaluru, IN",
+            "link-extension": "/job/Bengaluru-Consulting-Business-Operations-Cloud-Engineering-Power-BI/9085444/"
+        },
+        {
+            "job_id": "11369644",
+            "role": "Tax | IDT | Senior Executive |",
+            "location": "Mumbai - IThink, IN",
+            "link-extension": "/job/Mumbai-IThink-Tax-IDT-Senior-Executive/11369644/"
+        },
+        {
+            "job_id": "8533544",
+            "role": "ER_Consulting_SA&MA-Analytics_Project specific",
+            "location": "Bengaluru, IN",
+            "link-extension": "/job/Bengaluru-ER_Consulting_SAMA-Analytics_Java-Frontend/8533544/"
+        },
+        {
+            "job_id": "12000444",
+            "role": "Hyperion Planning - ET&P",
+            "location": "Delhi, IN",
+            "link-extension": "/job/Delhi-Hyperion-Planning-ET&P/12000444/"
+        },
+        {
+            "job_id": "12027444",
+            "role": "Consulting - F&P - Hyperion Planning - Consultant",
+            "location": "Delhi CEC, IN",
+            "link-extension": "/job/Delhi-CEC-Consulting-F&P-Hyperion-Planning-Consultant/12027444/"
+        },
+        {
+            "job_id": "10641444",
+            "role": "SAP_GR/DM",
+            "location": "Bengaluru, IN",
+            "link-extension": "/job/Bengaluru-SAP_GRDM/10641444/"
+        },
+        {
+            "job_id": "8514344",
+            "role": "Consulting_SA&MA-Analytics_Data Engineer_All Levels",
+            "location": "Bengaluru, IN",
+            "link-extension": "/job/Bengaluru-ER_Consulting_SAMA-Analytics_Data-Engineer/8514344/"
+        },
+        {
+            "job_id": "8356644",
+            "role": "RA-CSR-Cyber-Manager-ISMS",
+            "location": "Mumbai, IN",
+            "link-extension": "/job/Mumbai-RA-CSR-Cyber-CS-ISMS-1-1/8356644/"
+        },
+        {
+            "job_id": "10847544",
+            "role": "RA -Cyber -Consultant/AM/DM - Cyber",
+            "location": "Delhi, IN",
+            "link-extension": "/job/Delhi-RA-Cyber-ConsultantAMDM-Cyber/10847544/"
+        },
+        {
+            "job_id": "11560044",
+            "role": "Enabling Areas - Assistant Manager/Deputy Manager - Clients and Industries",
+            "location": "Delhi, IN",
+            "link-extension": "/job/Delhi-Enabling-Areas-Assistant-ManagerDeputy-Manager-Clients-and-Industries/11560044/"
+        },
+        {
+            "job_id": "11490144",
+            "role": "RA-Cyber-Information Security_Coimbatore CEC 1",
+            "location": "Coimbatore CEC, IN",
+            "link-extension": "/job/Coimbatore-CEC-RA-Cyber-Information-Security_Coimbatore-CEC-1/11490144/"
+        },
+        {
+            "job_id": "10695544",
+            "role": "RA-Cyber-Information Security",
+            "location": "Bengaluru, IN",
+            "link-extension": "/job/Bengaluru-RA-CSR-Cyber-CS-Cyber-Strategy/10695544/"
+        },
+        {
+            "job_id": "5935544",
+            "role": "Tax- Indirect Tax - Senior Executive - CEC 1",
+            "location": "Mumbai - IThink, IN",
+            "link-extension": "/job/Mumbai-IThink-Tax-Indirect-Tax-Senior-Executive-CEC-1/5935544/"
+        },
+        {
+            "job_id": "10696544",
+            "role": "RA-Cyber-Information Security_Coimbatore CEC",
+            "location": "Coimbatore CEC, IN",
+            "link-extension": "/job/Coimbatore-CEC-RA-Cyber-Information-Security_Coimbatore-CEC/10696544/"
+        },
+        {
+            "job_id": "6898244",
+            "role": "RA-CSR-Cyber-CS-Cyber Strategy",
+            "location": "Bengaluru, IN",
+            "link-extension": "/job/Bengaluru-RA-CSR-Cyber-CS-Cyber-Strategy/6898244/"
+        },
+        {
+            "job_id": "11818944",
+            "role": "RA-Cyber-Information Security_Thane CEC 1 1",
+            "location": "Mumbai, IN",
+            "link-extension": "/job/Mumbai-RA-Cyber-Information-Security_Thane-CEC-1-1/11818944/"
+        },
+        {
+            "job_id": "7421444",
+            "role": "Consulting-SA&MA-Analytics and Cognitive- PROJECT",
+            "location": "Bengaluru, IN",
+            "link-extension": "/job/Bengaluru-Consulting-SA&MA-Analytics-and-Cognitive-PROJECT/7421444/"
+        },
+        {
+            "job_id": "11492444",
+            "role": "RA-Cyber-Information Security_Pune",
+            "location": "Pune, IN",
+            "link-extension": "/job/Mumbai-IThink-RA-Cyber-Information-Security_Mumbai-CEC-4-1/11492444/"
+        },
+        {
+            "job_id": "11047344",
+            "role": "RA-Cyber-Information Security_Coimbatore CEC 2",
+            "location": "Coimbatore CEC, IN",
+            "link-extension": "/job/Coimbatore-CEC-RA-Cyber-Information-Security_Coimbatore-CEC-2/11047344/"
+        },
+        {
+            "job_id": "10911944",
+            "role": "RA-Cyber-Information Security_Mumbai CEC",
+            "location": "Mumbai - IThink, IN",
+            "link-extension": "/job/Mumbai-IThink-RA-Cyber-Information-Security_Mumbai-CEC/10911944/"
+        },
+        {
+            "job_id": "9128944",
+            "role": "Financial Advisory International - Data Analytics - SE/AM - UI/UX Developer",
+            "location": "Mumbai, IN",
+            "link-extension": "/job/Mumbai-Financial-Advisory-International-Data-Analytics-SEAM-UIUX-Developer/9128944/"
+        },
+        {
+            "job_id": "10380444",
+            "role": "Financial Advisory International - Data Analytics - SE - Test Engineer (Python, Selenium)",
+            "location": "Mumbai, IN",
+            "link-extension": "/job/Mumbai-Financial-Advisory-International-Data-Analytics-AM-Test-Engineer/10380444/"
+        },
+        {
+            "job_id": "10481744",
+            "role": "Financial Advisory International - Data Analytics - AM - Automation and Manual Tester",
+            "location": "Mumbai, IN",
+            "link-extension": "/job/Mumbai-Financial-Advisory-International-Data-Analytics-AM-Test-Engineer/10481744/"
+        },
+        {
+            "job_id": "10014844",
+            "role": "SAP_BPC",
+            "location": "Bengaluru, IN",
+            "link-extension": "/job/Bengaluru-SAP_BPC/10014844/"
+        },
+        {
+            "job_id": "7133844",
+            "role": "Consulting-SAMA-SBD-Celonis",
+            "location": "Mumbai, IN",
+            "link-extension": "/job/Mumbai-Consulting-SAMA-SBD-Celonis/7133844/"
+        },
+        {
+            "job_id": "11233144",
+            "role": "Financial Advisory International - Data Analytics - AM/DM - Microsoft Dynamics 365, SQL",
+            "location": "Mumbai, IN",
+            "link-extension": "/job/Mumbai-Financial-Advisory-International-Data-Analytics-AMDM-Microsoft-Dynamics-365%2C-SQL/11233144/"
+        },
+        {
+            "job_id": "3596444",
+            "role": "RAS-A&IC-Director-FS",
+            "location": "Mumbai, IN",
+            "link-extension": "/job/Mumbai-RAS-A&IC-Director-FS/3596444/"
+        },
+        {
+            "job_id": "11112144",
+            "role": "Hyperion Planning",
+            "location": "Delhi, IN",
+            "link-extension": "/job/Delhi-Hyperion-Planning/11112144/"
+        },
+        {
+            "job_id": "11894844",
+            "role": "Hyperion Planning",
+            "location": "Mumbai - IThink, IN",
+            "link-extension": "/job/Mumbai-IThink-Hyperion-Planning/11894844/"
+        },
+        {
+            "job_id": "5986844",
+            "role": "Consulting-SA&MA-Analytics and Cognitive-Projects",
+            "location": "Hyderabad, IN",
+            "link-extension": "/job/Hyderabad-Consulting-SA&MA-Analytics-&-Cognitive-Project/5986844/"
+        },
+        {
+            "job_id": "4453444",
+            "role": "Tax-Global Employer Services - Asst Manager-A&F - North",
+            "location": "Delhi, IN",
+            "link-extension": "/job/Delhi-Tax-Global-Employer-Services-Manager-A&F-North/4453444/"
+        },
+        {
+            "job_id": "11833644",
+            "role": "RA-AIC-Digital-DA & IA",
+            "location": "Delhi, IN",
+            "link-extension": "/job/Delhi-RA-AIC-Digital-DA-&-IA/11833644/"
+        },
+        {
+            "job_id": "9506644",
+            "role": "Financial Advisory International - Data Analytics - SE/AM - Python Developer",
+            "location": "Mumbai, IN",
+            "link-extension": "/job/Mumbai-Financial-Advisory-International-Data-Analytics-SEAM-Python-Developer/9506644/"
+        },
+        {
+            "job_id": "4590944",
+            "role": "Tax- Tax Technology-Deputy Manager- API",
+            "location": "Bengaluru, IN",
+            "link-extension": "/job/Bengaluru-Tax-Tax-Technology-Deputy-Manager-API/4590944/"
+        },
+        {
+            "job_id": "6177344",
+            "role": "Tax- Tax Technology-Deputy Manager-DB",
+            "location": "Bengaluru, IN",
+            "link-extension": "/job/Bengaluru-Tax-Tax-Technology-Deputy-Manager/6177344/"
+        },
+        {
+            "job_id": "4313444",
+            "role": "GES-DM-Delhi",
+            "location": "Delhi, IN",
+            "link-extension": "/job/Delhi-GES-DM-Delhi/4313444/"
+        },
+        {
+            "job_id": "11995644",
+            "role": "Tax-Deputy Manager-BPS, Bangalore",
+            "location": "Bengaluru, IN",
+            "link-extension": "/job/Bengaluru-Tax-Deputy-Manager-BPS%2C-Bangalore/11995644/"
+        },
+        {
+            "job_id": "12036044",
+            "role": "Tax - GES - Senior Executive",
+            "location": "Mumbai - IThink, IN",
+            "link-extension": "/job/Mumbai-IThink-Tax-GES-Senior-Executive/12036044/"
+        },
+        {
+            "job_id": "5707744",
+            "role": "Tax- Tax Technology-Deputy Manager- 1 1",
+            "location": "Mumbai, IN",
+            "link-extension": "/job/Mumbai-Tax-Tax-Technology-Deputy-Manager-1-1/5707744/"
+        },
+        {
+            "job_id": "11361244",
+            "role": "Consulting-SAMA-StreamSet Developers",
+            "location": "Bengaluru, IN",
+            "link-extension": "/job/Bengaluru-Consulting-SAMA-StreamSet-Developers/11361244/"
+        },
+        {
+            "job_id": "4055644",
+            "role": "GES-AM-Bangalore",
+            "location": "Bengaluru, IN",
+            "link-extension": "/job/Bengaluru-GES-AM-Bangalore/4055644/"
+        },
+        {
+            "job_id": "5665244",
+            "role": "Tax- Tax Technology-Assistant Manager- Dev ops",
+            "location": "Bengaluru, IN",
+            "link-extension": "/job/Bengaluru-Tax-Tax-Technology-Assistant-Manager-Dev-ops/5665244/"
+        },
+        {
+            "job_id": "12054444",
+            "role": "RA:CSR:SOC",
+            "location": "Hyderabad, IN",
+            "link-extension": "/job/Hyderabad-RACSRSOC/12054444/"
+        },
+        {
+            "job_id": "12028344",
+            "role": "Tax Sr exec - IDT - Bangalore",
+            "location": "Bengaluru, IN",
+            "link-extension": "/job/Bengaluru-Tax-Sr-exec-IDT-Bangalore/12028344/"
+        },
+        {
+            "job_id": "11883744",
+            "role": "Consulting - HC : HRT - HRSS - Consultant/Senior Consultant",
+            "location": "Delhi, IN",
+            "link-extension": "/job/Delhi-Consulting-HC-HRT-HRSS-ConsultantSenior-Consultant/11883744/"
+        },
+        {
+            "job_id": "7552544",
+            "role": "RA-CSR-EE-TPRM 1",
+            "location": "Mumbai, IN",
+            "link-extension": "/job/Mumbai-RA-CSR-EE-TPRM-1/7552544/"
+        },
+        {
+            "job_id": "6043744",
+            "role": "Consulting - AM&C - Senior Manager-Digital Transformation",
+            "location": "Bengaluru, IN",
+            "link-extension": "/job/Bengaluru-Consulting-AM&C-Senior-Manager-Digital-Transformation/6043744/"
+        },
+        {
+            "job_id": "10015144",
+            "role": "SAP_SAC",
+            "location": "Bengaluru, IN",
+            "link-extension": "/job/Bengaluru-SAP_SAC/10015144/"
+        },
+        {
+            "job_id": "7747544",
+            "role": "ET&P:SAP--SAP BODS Consultant-Chennai-10",
+            "location": "Mumbai - IThink, IN",
+            "link-extension": "/job/Mumbai-IThink-ET&PSAP-SAP-BODS-Consultant-Chennai-10/7747544/"
+        },
+        {
+            "job_id": "11732544",
+            "role": "Financial Advisory International - Transactional Services - FP&A - Assistant Manager",
+            "location": "Mumbai, IN",
+            "link-extension": "/job/Mumbai-Financial-Advisory-Transactional-Services-FP&A-Assistant-Manager/11732544/"
+        },
+        {
+            "job_id": "11089244",
+            "role": "Enabling Areas - Chatbot Developer - Information Technology",
+            "location": "Delhi, IN",
+            "link-extension": "/job/Delhi-Enabling-Areas-Chatbot-Developer-Information-Technology/11089244/"
+        },
+        {
+            "job_id": "11786044",
+            "role": "Consulting- HRT - HRSS - Consultant/Senior Consultant/Manager",
+            "location": "Delhi, IN",
+            "link-extension": "/job/Delhi-Consulting-HRT-HRSS-ConsultantSenior-ConsultantManager/11786044/"
+        },
+        {
+            "job_id": "12023344",
+            "role": "Consulting - AM&C - AD - SAP Commerce Architect",
+            "location": "Delhi, IN",
+            "link-extension": "/job/Delhi-Consulting-AM&C-AD-SAP-Commerce-Architect/12023344/"
+        },
+        {
+            "job_id": "9557244",
+            "role": "Consulting-SA&MA-Analytics and Cognitive- Tableau",
+            "location": "Pune, IN",
+            "link-extension": "/job/Pune-Consulting-SA&MA-Analytics-and-Cognitive-Tableau/9557244/"
+        },
+        {
+            "job_id": "11096244",
+            "role": "Financial Advisory-Transaction Services-Manager",
+            "location": "Mumbai, IN",
+            "link-extension": "/job/Mumbai-Financial-Advisory-Transaction-Services-Manager/11096244/"
+        },
+        {
+            "job_id": "9388344",
+            "role": "Tax - Global Transfer Pricing - Senior Executive - Kolkata",
+            "location": "Kolkata, IN",
+            "link-extension": "/job/Kolkata-Tax-Global-Transfer-Pricing-Senior-Executive-Kolkata-1/9388344/"
+        },
+        {
+            "job_id": "4225344",
+            "role": "Consulting-SAMA-Social Impact",
+            "location": "Mumbai, IN",
+            "link-extension": "/job/Mumbai-Consulting-Strategy-DM-Social-Impact-1/4225344/"
+        },
+        {
+            "job_id": "8889844",
+            "role": "Consulting-SAMA-Social Impact (A)",
+            "location": "Mumbai, IN",
+            "link-extension": "/job/Mumbai-Consulting-SAMA-Social-Impact-%28A%29/8889844/"
+        },
+        {
+            "job_id": "10765644",
+            "role": "Consulting-SAMA-Social Impact (M)",
+            "location": "Mumbai, IN",
+            "link-extension": "/job/Mumbai-Consulting-SAMA-Social-Impact-%28M%29/10765644/"
+        },
+        {
+            "job_id": "11162444",
+            "role": "Hyperion-FCCS/HFM",
+            "location": "Pune, IN",
+            "link-extension": "/job/Delhi-Hyperion-FCCSHFM/11162444/"
+        },
+        {
+            "job_id": "11926444",
+            "role": "RA|Cyber||D&R|SOC| AM|Sr.Incident Response Analyst |SIEM SPLUNK Monitoring||Thane CEC 1 1",
+            "location": "Mumbai - IThink, IN",
+            "link-extension": "/job/Mumbai-IThink-RACyberD&RSOC-AMSr_Incident-Response-Analyst-SIEM-SPLUNK-MonitoringThane-CEC-1-1/11926444/"
+        },
+        {
+            "job_id": "8576044",
+            "role": "SAP Data Management",
+            "location": "Bengaluru, IN",
+            "link-extension": "/job/Bengaluru-SAP-Data-Management/8576044/"
+        }
+    ]
+}

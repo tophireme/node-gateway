@@ -1,0 +1,972 @@
+{
+    "company": "Apple",
+    "career_page_url": "https://jobs.apple.com",
+    "data": [
+        {
+            "job_id": "200314122",
+            "role": "IN-Technical Specialist",
+            "location": "Various locations within  India",
+            "link-extension": "/en-in/details/200314122/in-technical-specialist?team=APPST",
+            "job_family": "Apple Retail"
+        },
+        {
+            "job_id": "200314120",
+            "role": "IN-Store Leader",
+            "location": "Various locations within  India",
+            "link-extension": "/en-in/details/200314120/in-store-leader?team=APPST",
+            "job_family": "Apple Retail"
+        },
+        {
+            "job_id": "200314117",
+            "role": "IN - Specialist",
+            "location": "Various locations within  India",
+            "link-extension": "/en-in/details/200314117/in-specialist?team=APPST",
+            "job_family": "Apple Retail"
+        },
+        {
+            "job_id": "200314038",
+            "role": "IN-Senior Manager",
+            "location": "Various locations within  India",
+            "link-extension": "/en-in/details/200314038/in-senior-manager?team=APPST",
+            "job_family": "Apple Retail"
+        },
+        {
+            "job_id": "200314033",
+            "role": "IN-Operations Expert",
+            "location": "Various locations within  India",
+            "link-extension": "/en-in/details/200314033/in-operations-expert?team=APPST",
+            "job_family": "Apple Retail"
+        },
+        {
+            "job_id": "200314028",
+            "role": "IN-Market Leader",
+            "location": "Various locations within  India",
+            "link-extension": "/en-in/details/200314028/in-market-leader?team=APPST",
+            "job_family": "Apple Retail"
+        },
+        {
+            "job_id": "200314026",
+            "role": "IN-Manager",
+            "location": "Various locations within  India",
+            "link-extension": "/en-in/details/200314026/in-manager?team=APPST",
+            "job_family": "Apple Retail"
+        },
+        {
+            "job_id": "200314015",
+            "role": "IN-Genius",
+            "location": "Various locations within  India",
+            "link-extension": "/en-in/details/200314015/in-genius?team=APPST",
+            "job_family": "Apple Retail"
+        },
+        {
+            "job_id": "200314010",
+            "role": "IN-Expert",
+            "location": "Various locations within  India",
+            "link-extension": "/en-in/details/200314010/in-expert?team=APPST",
+            "job_family": "Apple Retail"
+        },
+        {
+            "job_id": "200314003",
+            "role": "IN-Business Pro",
+            "location": "Various locations within  India",
+            "link-extension": "/en-in/details/200314003/in-business-pro?team=APPST",
+            "job_family": "Apple Retail"
+        },
+        {
+            "job_id": "200313991",
+            "role": "IN-Creative",
+            "location": "Various locations within  India",
+            "link-extension": "/en-in/details/200313991/in-creative?team=APPST",
+            "job_family": "Apple Retail"
+        },
+        {
+            "job_id": "200313970",
+            "role": "IN-Business Expert",
+            "location": "Various locations within  India",
+            "link-extension": "/en-in/details/200313970/in-business-expert?team=APPST",
+            "job_family": "Apple Retail"
+        },
+        {
+            "job_id": "200446629",
+            "role": "Software Development Engineer, Java - Engineering Solutions",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200446629/software-development-engineer-java-engineering-solutions?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200441322",
+            "role": "Operations Program Manager - iPhone",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200441322/operations-program-manager-iphone?team=OPMFG",
+            "job_family": "Operations and Supply Chain"
+        },
+        {
+            "job_id": "200446606",
+            "role": "Cellular Layer1 Firmware Integration Engineer",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200446606/cellular-layer1-firmware-integration-engineer?team=HRDWR",
+            "job_family": "Hardware"
+        },
+        {
+            "job_id": "200373157",
+            "role": "Engineering Project Manager",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200373157/engineering-project-manager?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200445441",
+            "role": "Product Quality Manager - Manufacturing Operations",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200445441/product-quality-manager-manufacturing-operations?team=OPMFG",
+            "job_family": "Operations and Supply Chain"
+        },
+        {
+            "job_id": "200375434",
+            "role": "DevOps Engineer",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200375434/devops-engineer?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200337642",
+            "role": "Operations Engineer - Application Reliability",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200337642/operations-engineer-application-reliability?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200443175",
+            "role": "Senior Engineering Manager -Manufacturing Systems & Infrastructure",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200443175/senior-engineering-manager-manufacturing-systems-infrastructure?team=OPMFG",
+            "job_family": "Operations and Supply Chain"
+        },
+        {
+            "job_id": "200441098",
+            "role": "Site Reliability Engineer - Manufacturing Systems & Infrastructure",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200441098/site-reliability-engineer-manufacturing-systems-infrastructure?team=OPMFG",
+            "job_family": "Operations and Supply Chain"
+        },
+        {
+            "job_id": "200443173",
+            "role": "ML Engineer (Non - Computer Vision)",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200443173/ml-engineer-non-computer-vision?team=OPMFG",
+            "job_family": "Operations and Supply Chain"
+        },
+        {
+            "job_id": "200442448",
+            "role": "RF Operations Test Engineer",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200442448/rf-operations-test-engineer?team=OPMFG",
+            "job_family": "Operations and Supply Chain"
+        },
+        {
+            "job_id": "200440631",
+            "role": "Big Data Engineer - Manufacturing Systems & Infrastructure",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200440631/big-data-engineer-manufacturing-systems-infrastructure?team=OPMFG",
+            "job_family": "Operations and Supply Chain"
+        },
+        {
+            "job_id": "200443036",
+            "role": "Software Engineer - Operations Software Engineering",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200443036/software-engineer-operations-software-engineering?team=OPMFG",
+            "job_family": "Operations and Supply Chain"
+        },
+        {
+            "job_id": "200435185",
+            "role": "Mechanical Design Engineer - Assembly",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200435185/mechanical-design-engineer-assembly?team=OPMFG",
+            "job_family": "Operations and Supply Chain"
+        },
+        {
+            "job_id": "200442915",
+            "role": "Data (ML) Program Manager",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200442915/data-ml-program-manager?team=OPMFG",
+            "job_family": "Operations and Supply Chain"
+        },
+        {
+            "job_id": "200441389",
+            "role": "RF Operations Test Engineer",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200441389/rf-operations-test-engineer?team=OPMFG",
+            "job_family": "Operations and Supply Chain"
+        },
+        {
+            "job_id": "200435003",
+            "role": "Software Development Engineer - Eng Exp System",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200435003/software-development-engineer-eng-exp-system?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200365383",
+            "role": "Software Engineer (Python/Go/Swift)",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200365383/software-engineer-python-go-swift?team=OPMFG",
+            "job_family": "Operations and Supply Chain"
+        },
+        {
+            "job_id": "200336540",
+            "role": "Site Reliability Engineer - Manufacturing Systems & Infrastructure",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200336540/site-reliability-engineer-manufacturing-systems-infrastructure?team=OPMFG",
+            "job_family": "Operations and Supply Chain"
+        },
+        {
+            "job_id": "200441822",
+            "role": "Advanced Manufacturing Engineer",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200441822/advanced-manufacturing-engineer?team=OPMFG",
+            "job_family": "Operations and Supply Chain"
+        },
+        {
+            "job_id": "200441839",
+            "role": "Technical Program Manager",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200441839/technical-program-manager?team=OPMFG",
+            "job_family": "Operations and Supply Chain"
+        },
+        {
+            "job_id": "200435211",
+            "role": "Manufacturing Quality Engineer, Enclosures",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200435211/manufacturing-quality-engineer-enclosures?team=OPMFG",
+            "job_family": "Operations and Supply Chain"
+        },
+        {
+            "job_id": "200435078",
+            "role": "Software Development Engineer - Data - Ad Platforms",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200435078/software-development-engineer-data-ad-platforms?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200383735",
+            "role": "Site Reliability Engineer - Data - Ad Platforms",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200383735/site-reliability-engineer-data-ad-platforms?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200413154",
+            "role": "CNC Manufacturing Design Engineer (Manufacturing Design)",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200413154/cnc-manufacturing-design-engineer-manufacturing-design?team=OPMFG",
+            "job_family": "Operations and Supply Chain"
+        },
+        {
+            "job_id": "200441383",
+            "role": "Software Engineer - Manufacturing Systems and Infrastructure",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200441383/software-engineer-manufacturing-systems-and-infrastructure?team=OPMFG",
+            "job_family": "Operations and Supply Chain"
+        },
+        {
+            "job_id": "200440998",
+            "role": "Software Engineering Manager - Manufacturing Systems & Infrastructure",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200440998/software-engineering-manager-manufacturing-systems-infrastructure?team=OPMFG",
+            "job_family": "Operations and Supply Chain"
+        },
+        {
+            "job_id": "200440629",
+            "role": "Computer Vision Machine Learning Engineer",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200440629/computer-vision-machine-learning-engineer?team=OPMFG",
+            "job_family": "Operations and Supply Chain"
+        },
+        {
+            "job_id": "200440591",
+            "role": "Senior Engineering Manager - Site Reliability Engineering - Apple Cloud Services",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200440591/senior-engineering-manager-site-reliability-engineering-apple-cloud-services?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200438293",
+            "role": "Anti-Abuse Engineer",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200438293/anti-abuse-engineer?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200407044",
+            "role": "Software Development Engineer",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200407044/software-development-engineer?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200437866",
+            "role": "Senior Engineering Program Manager - EPM",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200437866/senior-engineering-program-manager-epm?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200433282",
+            "role": "Surface Finishing Subject Matter Expert (SME)",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200433282/surface-finishing-subject-matter-expert-sme?team=OPMFG",
+            "job_family": "Operations and Supply Chain"
+        },
+        {
+            "job_id": "200370332",
+            "role": "IN-Genius",
+            "location": "New Delhi-IN",
+            "link-extension": "/en-in/details/200370332/in-genius?team=APPST",
+            "job_family": "Apple Retail"
+        },
+        {
+            "job_id": "200370330",
+            "role": "IN-Genius",
+            "location": "Mumbai-IN",
+            "link-extension": "/en-in/details/200370330/in-genius?team=APPST",
+            "job_family": "Apple Retail"
+        },
+        {
+            "job_id": "200395745",
+            "role": "Senior Oracle Developer / Architect",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200395745/senior-oracle-developer-architect?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200436055",
+            "role": "Global Supply Manager - Mechanical Enclosures",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200436055/global-supply-manager-mechanical-enclosures?team=OPMFG",
+            "job_family": "Operations and Supply Chain"
+        },
+        {
+            "job_id": "200433410",
+            "role": "GSM (Global Supply Management) Manager - Components",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200433410/gsm-global-supply-management-manager-components?team=OPMFG",
+            "job_family": "Operations and Supply Chain"
+        },
+        {
+            "job_id": "200433278",
+            "role": "Senior Architect \u2013 Ad Platforms",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200433278/senior-architect-ad-platforms?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200435560",
+            "role": "Software Development Engineer - Platform Engineering",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200435560/software-development-engineer-platform-engineering?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200435007",
+            "role": "Data - Site Reliability Engineer - Ad Platforms",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200435007/data-site-reliability-engineer-ad-platforms?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200433289",
+            "role": "Automation Subject Matter Expert",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200433289/automation-subject-matter-expert?team=OPMFG",
+            "job_family": "Operations and Supply Chain"
+        },
+        {
+            "job_id": "200435035",
+            "role": "Business Development Manager, Affordability",
+            "location": "Gurugram",
+            "link-extension": "/en-in/details/200435035/business-development-manager-affordability?team=SLDEV",
+            "job_family": "Sales and Business Development"
+        },
+        {
+            "job_id": "200432025",
+            "role": "Global Supply Manager",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200432025/global-supply-manager?team=OPMFG",
+            "job_family": "Operations and Supply Chain"
+        },
+        {
+            "job_id": "200371712",
+            "role": "Coatings Subject Matter Expert",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200371712/coatings-subject-matter-expert?team=OPMFG",
+            "job_family": "Operations and Supply Chain"
+        },
+        {
+            "job_id": "200433295",
+            "role": "Metal Tooling Engineer",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200433295/metal-tooling-engineer?team=OPMFG",
+            "job_family": "Operations and Supply Chain"
+        },
+        {
+            "job_id": "200380461",
+            "role": "Cellular 5G/4G L1 Multi-RAT Control Firmware Engineer",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200380461/cellular-5g-4g-l1-multi-rat-control-firmware-engineer?team=HRDWR",
+            "job_family": "Hardware"
+        },
+        {
+            "job_id": "200252078",
+            "role": "Cellular 5G/4G Layer1 Control Firmware Engineer",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200252078/cellular-5g-4g-layer1-control-firmware-engineer?team=HRDWR",
+            "job_family": "Hardware"
+        },
+        {
+            "job_id": "200381716",
+            "role": "Engineering Project Analyst",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200381716/engineering-project-analyst?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200362937",
+            "role": "FullStack Software Engineer (iOS) - AppleCare",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200362937/fullstack-software-engineer-ios-applecare?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200432385",
+            "role": "Modem System Test Engineer",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200432385/modem-system-test-engineer?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200345121",
+            "role": "Pega Engineering - Tech Lead",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200345121/pega-engineering-tech-lead?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200427112",
+            "role": "Service Reliability Engineering (SRE), Data Infra",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200427112/service-reliability-engineering-sre-data-infra?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200397420",
+            "role": "Cellular 5G/4G Firmware Development & Verification Engineer",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200397420/cellular-5g-4g-firmware-development-verification-engineer?team=HRDWR",
+            "job_family": "Hardware"
+        },
+        {
+            "job_id": "200211899",
+            "role": "Big Data SRE Manager",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200211899/big-data-sre-manager?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200400410",
+            "role": "Lead Architect \u2013 Ad Platforms",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200400410/lead-architect-ad-platforms?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200429717",
+            "role": "Senior AEM Engineer",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200429717/senior-aem-engineer?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200426699",
+            "role": "Manager - Database Support and Management",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200426699/manager-database-support-and-management?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200331549",
+            "role": "Senior Software Engineer - Data",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200331549/senior-software-engineer-data?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200376049",
+            "role": "Senior Software Engineer - Data",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200376049/senior-software-engineer-data?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200410153",
+            "role": "Engineering Manager - Infrastructure Operations",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200410153/engineering-manager-infrastructure-operations?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200422676",
+            "role": "SAP Technical Manager",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200422676/sap-technical-manager?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200415307",
+            "role": "Senior Cloud Network Software Architect",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200415307/senior-cloud-network-software-architect?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200347460",
+            "role": "Big Data - Hadoop Engineer",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200347460/big-data-hadoop-engineer?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200404158",
+            "role": "Database Automation Engineer",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200404158/database-automation-engineer?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200210672",
+            "role": "Database Support Engineer",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200210672/database-support-engineer?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200407628",
+            "role": "Senior Data Engineer",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200407628/senior-data-engineer?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200397010",
+            "role": "Linux Systems Engineer - GIO",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200397010/linux-systems-engineer-gio?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200411233",
+            "role": "Cellular 3G/4G/5G Layer1 Control Firmware Engineer",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200411233/cellular-3g-4g-5g-layer1-control-firmware-engineer?team=HRDWR",
+            "job_family": "Hardware"
+        },
+        {
+            "job_id": "200398411",
+            "role": "Software Engineering Manager",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200398411/software-engineering-manager?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200405216",
+            "role": "Software Development Engineer",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200405216/software-development-engineer?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200384444",
+            "role": "Full Stack Engineer (Front End)",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200384444/full-stack-engineer-front-end?team=CORSV",
+            "job_family": "Corporate Functions"
+        },
+        {
+            "job_id": "200279161",
+            "role": "Cellular Software Development Engineer",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200279161/cellular-software-development-engineer?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200394080",
+            "role": "Software Engineer in Test - Ad Platforms",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200394080/software-engineer-in-test-ad-platforms?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200339967",
+            "role": "Big Data SRE - Observability and Reliability Engineering",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200339967/big-data-sre-observability-and-reliability-engineering?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200336473",
+            "role": "Engineering Manager",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200336473/engineering-manager?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200398421",
+            "role": "SAP BTP - Full Stack Engineer",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200398421/sap-btp-full-stack-engineer?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200403150",
+            "role": "Project Manager - AppleCare Business Process Re-engineering",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200403150/project-manager-applecare-business-process-re-engineering?team=OPMFG",
+            "job_family": "Operations and Supply Chain"
+        },
+        {
+            "job_id": "200338306",
+            "role": "Database Engineer - Performance Tuning (Bangalore / Hyderabad)",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200338306/database-engineer-performance-tuning-bangalore-hyderabad?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200391113",
+            "role": "Technical Program Manager",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200391113/technical-program-manager?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200391541",
+            "role": "Software Development Engineer in test - Salesforce",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200391541/software-development-engineer-in-test-salesforce?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200400648",
+            "role": "Embedded 5G/4G Cellular RF Software Engineer",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200400648/embedded-5g-4g-cellular-rf-software-engineer?team=HRDWR",
+            "job_family": "Hardware"
+        },
+        {
+            "job_id": "200372822",
+            "role": "Project Manager - SAP Finance",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200372822/project-manager-sap-finance?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200399815",
+            "role": "Sales Financial Analyst",
+            "location": "Gurugram",
+            "link-extension": "/en-in/details/200399815/sales-financial-analyst?team=CORSV",
+            "job_family": "Corporate Functions"
+        },
+        {
+            "job_id": "200206990",
+            "role": "FrontEnd Engineer- UI",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200206990/frontend-engineer-ui?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200385628",
+            "role": "Cellular Software Development Engineer",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200385628/cellular-software-development-engineer?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200387236",
+            "role": "Network Engineer - Global Infrastructure Operations",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200387236/network-engineer-global-infrastructure-operations?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200392137",
+            "role": "Sr. DevOps Engineer",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200392137/sr-devops-engineer?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200394634",
+            "role": "DevOps Engineer - Salesforce",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200394634/devops-engineer-salesforce?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200117123",
+            "role": "Pega Engineering - Tech Lead",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200117123/pega-engineering-tech-lead?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200394086",
+            "role": "Site Reliability Engineer - Ad Platforms",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200394086/site-reliability-engineer-ad-platforms?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200395433",
+            "role": "Sr. DevOps Engineer - Interactive Systems",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200395433/sr-devops-engineer-interactive-systems?team=MKTG",
+            "job_family": "Marketing"
+        },
+        {
+            "job_id": "200392147",
+            "role": "Cloud Data Warehouse Engineer",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200392147/cloud-data-warehouse-engineer?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200386751",
+            "role": "Cellular Protocol RAN/Core Network Simulation Engineer",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200386751/cellular-protocol-ran-core-network-simulation-engineer?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200368849",
+            "role": "Software Engineer - Genesys Cloud Platform",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200368849/software-engineer-genesys-cloud-platform?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200390339",
+            "role": "Site Reliability Engineer",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200390339/site-reliability-engineer?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200393932",
+            "role": "SoC Physical Design Engineer, PnR",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200393932/soc-physical-design-engineer-pnr?team=HRDWR",
+            "job_family": "Hardware"
+        },
+        {
+            "job_id": "200390831",
+            "role": "Salesforce Developer",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200390831/salesforce-developer?team=CORSV",
+            "job_family": "Corporate Functions"
+        },
+        {
+            "job_id": "200373834",
+            "role": "Program Manager, Maps Maintenance Team",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200373834/program-manager-maps-maintenance-team?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200335129",
+            "role": "Cellular 5G /4G Physical Layer Firmware Engineer",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200335129/cellular-5g-4g-physical-layer-firmware-engineer?team=HRDWR",
+            "job_family": "Hardware"
+        },
+        {
+            "job_id": "200384988",
+            "role": "Site Reliability Engineer",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200384988/site-reliability-engineer?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200206967",
+            "role": "Software Development Engineer in Test",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200206967/software-development-engineer-in-test?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200340045",
+            "role": "MacOS/iOS Swift Engineer",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200340045/macos-ios-swift-engineer?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200369212",
+            "role": "Engineering Manager - Contact Technologies",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200369212/engineering-manager-contact-technologies?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200206929",
+            "role": "Devops Engineer",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200206929/devops-engineer?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200232182",
+            "role": "SAP ABAP / HANA Engineer",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200232182/sap-abap-hana-engineer?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200370391",
+            "role": "Software Engineer - Java (Hyderabad / Bengaluru)",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200370391/software-engineer-java-hyderabad-bengaluru?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200278344",
+            "role": "Cloud Optimization Specialist",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200278344/cloud-optimization-specialist?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200238248",
+            "role": "Software Development Engineer, Java - Engineering Solutions",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200238248/software-development-engineer-java-engineering-solutions?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200375423",
+            "role": "DevOps Engineer - Contact Technologies",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200375423/devops-engineer-contact-technologies?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200344599",
+            "role": "SR. Software Engineer (FullStack) - AppleCare",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200344599/sr-software-engineer-fullstack-applecare?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200243810",
+            "role": "Search Engineering Manager",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200243810/search-engineering-manager?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200371529",
+            "role": "Software Engineer - Data Platform",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200371529/software-engineer-data-platform?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200370388",
+            "role": "Big Data Software Engineer - Observability and Reliability Engineering",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200370388/big-data-software-engineer-observability-and-reliability-engineering?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200370389",
+            "role": "Big Data SRE - Observability and Reliability Engineering",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200370389/big-data-sre-observability-and-reliability-engineering?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200369324",
+            "role": "Search Engineer",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200369324/search-engineer?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200366959",
+            "role": "Big Data Software Engineer - Observability and Reliability Engineering",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200366959/big-data-software-engineer-observability-and-reliability-engineering?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200366971",
+            "role": "Big Data Software Engineer - Observability and Reliability Engineering",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200366971/big-data-software-engineer-observability-and-reliability-engineering?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200366977",
+            "role": "Search Engineer",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200366977/search-engineer?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200341908",
+            "role": "Planning Lead",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200341908/planning-lead?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200356238",
+            "role": "Continuous Integration Firmware Engineer",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200356238/continuous-integration-firmware-engineer?team=HRDWR",
+            "job_family": "Hardware"
+        },
+        {
+            "job_id": "200347466",
+            "role": "Software Engineer - ISDS Cloud Analytics",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200347466/software-engineer-isds-cloud-analytics?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200154652",
+            "role": "Cloud Data Engineer",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200154652/cloud-data-engineer?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200337700",
+            "role": "Test Management Lead - Ops BPR",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200337700/test-management-lead-ops-bpr?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200291622",
+            "role": "Cellular Software Development Engineer",
+            "location": "Bengaluru",
+            "link-extension": "/en-in/details/200291622/cellular-software-development-engineer?team=SFTWR",
+            "job_family": "Software and Services"
+        },
+        {
+            "job_id": "200115076",
+            "role": "Software Engineer - Distributed Systems",
+            "location": "Hyderabad",
+            "link-extension": "/en-in/details/200115076/software-engineer-distributed-systems?team=SFTWR",
+            "job_family": "Software and Services"
+        }
+    ]
+}
