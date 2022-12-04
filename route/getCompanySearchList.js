@@ -23,6 +23,7 @@ module.exports = (req, res) => {
             for(var i =0; i<response.data.data.length; i++){
             data.push(
                 {
+                    "id": response.data.data[i].id,
                     "company": response.data.data[i].attributes.name,
                     "logo": response.data.data[i].attributes.logo
                 }

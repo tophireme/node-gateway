@@ -47,6 +47,7 @@ module.exports = (req, res) => {
 
                 jsondata.push(
                     {
+                        "id": response.data.data[i].id,
                         "company_name": response.data.data[i].attributes.name,
                         "logo": response.data.data[i].attributes.logo,
                         "jobs": jobs,

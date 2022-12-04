@@ -28,9 +28,10 @@ axios(config)
 .then(function (response) {
     var data = []
     for(var i =0; i<response.data.data.length; i++){
-    // console.log(response.data.data[i].attributes.company.data.attributes.name);
+     //console.log(response.data.data[i].attributes.company);
     data.push(
         {
+            "id": response.data.data[i].id,
             "job_id": response.data.data[i].attributes.job_id,
             "location": response.data.data[i].attributes.location,
             "designation": response.data.data[i].attributes.designation,
