@@ -1,0 +1,786 @@
+{
+    "company": "Amazon",
+    "career_page_url": "https://www.amazon.jobs",
+    "data": [
+        {
+            "job_id": "2301964",
+            "role": "Financial Analyst, Delivery Experience Finance",
+            "location": "KA, Bengaluru",
+            "link-extension": "/en/jobs/2301964/financial-analyst-delivery-experience-finance"
+        },
+        {
+            "job_id": "2301667",
+            "role": "Business Analyst, S3P Central Analytics Team",
+            "location": "KA, Bangalore",
+            "link-extension": "/en/jobs/2301667/business-analyst-s3p-central-analytics-team"
+        },
+        {
+            "job_id": "2301659",
+            "role": "Manager, Air Haul Operations, Airhaul",
+            "location": "MH, Mumbai",
+            "link-extension": "/en/jobs/2301659/manager-air-haul-operations-airhaul"
+        },
+        {
+            "job_id": "2301660",
+            "role": "Prod Comp Sr. Associate - Campus (by Invite Only), Compliance Operations",
+            "location": "KA, Bangalore",
+            "link-extension": "/en/jobs/2301660/prod-comp-sr-associate-campus-by-invite-only-compliance-operations"
+        },
+        {
+            "job_id": "2301637",
+            "role": "Team Lead (L3)",
+            "location": "DL, Jamalpur",
+            "link-extension": "/en/jobs/2301637/team-lead-l3"
+        },
+        {
+            "job_id": "2301638",
+            "role": "Team Lead (L3)",
+            "location": "DL, Jamalpur",
+            "link-extension": "/en/jobs/2301638/team-lead-l3"
+        },
+        {
+            "job_id": "2301627",
+            "role": "Manager I, Line Haul",
+            "location": "KA, BANGALORE",
+            "link-extension": "/en/jobs/2301627/manager-i-line-haul"
+        },
+        {
+            "job_id": "2301624",
+            "role": "Manager, Air Haul Operations, Airhaul",
+            "location": "TS, Hyderabad",
+            "link-extension": "/en/jobs/2301624/manager-air-haul-operations-airhaul"
+        },
+        {
+            "job_id": "2301619",
+            "role": "Senior Manager, Operations, CMT",
+            "location": "TN, Chennai",
+            "link-extension": "/en/jobs/2301619/senior-manager-operations-cmt"
+        },
+        {
+            "job_id": "2301605",
+            "role": "Program Manager II",
+            "location": "TN, Chennai",
+            "link-extension": "/en/jobs/2301605/program-manager-ii"
+        },
+        {
+            "job_id": "2301606",
+            "role": "Manager - Business Quality (L4)",
+            "location": "TN, Chennai",
+            "link-extension": "/en/jobs/2301606/manager-business-quality-l4"
+        },
+        {
+            "job_id": "2301604",
+            "role": "Program Manager-Operations",
+            "location": "TN, Chennai",
+            "link-extension": "/en/jobs/2301604/program-manager-operations"
+        },
+        {
+            "job_id": "2301581",
+            "role": "Program Manager - Operations",
+            "location": "TN, Chennai",
+            "link-extension": "/en/jobs/2301581/program-manager-operations"
+        },
+        {
+            "job_id": "2301582",
+            "role": "Manager - Business Quality (L4)",
+            "location": "TN, Chennai",
+            "link-extension": "/en/jobs/2301582/manager-business-quality-l4"
+        },
+        {
+            "job_id": "2301579",
+            "role": "Business Analyst I, AOP",
+            "location": "TS, Hyderabad",
+            "link-extension": "/en/jobs/2301579/business-analyst-i-aop"
+        },
+        {
+            "job_id": "2301577",
+            "role": "Operations Manager",
+            "location": "KA, Bengaluru",
+            "link-extension": "/en/jobs/2301577/operations-manager"
+        },
+        {
+            "job_id": "2301576",
+            "role": "Operations Manager",
+            "location": "KA, Bengaluru",
+            "link-extension": "/en/jobs/2301576/operations-manager"
+        },
+        {
+            "job_id": "2301578",
+            "role": "Operations Manager",
+            "location": "KA, Bengaluru",
+            "link-extension": "/en/jobs/2301578/operations-manager"
+        },
+        {
+            "job_id": "2301561",
+            "role": "Senior Associate, Amazon Retail India",
+            "location": "KA, Bengaluru",
+            "link-extension": "/en/jobs/2301561/senior-associate-amazon-retail-india"
+        },
+        {
+            "job_id": "2301560",
+            "role": "Senior Associate, Amazon Retail India",
+            "location": "KA, Bengaluru",
+            "link-extension": "/en/jobs/2301560/senior-associate-amazon-retail-india"
+        },
+        {
+            "job_id": "2301559",
+            "role": "Senior Associate, Amazon Retail India",
+            "location": "KA, Bengaluru",
+            "link-extension": "/en/jobs/2301559/senior-associate-amazon-retail-india"
+        },
+        {
+            "job_id": "2301556",
+            "role": "Manager- Operations",
+            "location": "KA, Bengaluru",
+            "link-extension": "/en/jobs/2301556/manager-operations"
+        },
+        {
+            "job_id": "2301554",
+            "role": "Associate - Retail Process, CMT Ops - VAR",
+            "location": "TN, Chennai",
+            "link-extension": "/en/jobs/2301554/associate-retail-process-cmt-ops-var"
+        },
+        {
+            "job_id": "2301553",
+            "role": "Associate - Retail Process, CMT Ops - VAR",
+            "location": "TN, Chennai",
+            "link-extension": "/en/jobs/2301553/associate-retail-process-cmt-ops-var"
+        },
+        {
+            "job_id": "2301551",
+            "role": "Associate - Retail Process, Japanese",
+            "location": "TN, Chennai",
+            "link-extension": "/en/jobs/2301551/associate-retail-process-japanese"
+        },
+        {
+            "job_id": "2301549",
+            "role": "Operations Manager",
+            "location": "TN, Chennai",
+            "link-extension": "/en/jobs/2301549/operations-manager"
+        },
+        {
+            "job_id": "2301548",
+            "role": "Operations Manager",
+            "location": "KA, Bengaluru",
+            "link-extension": "/en/jobs/2301548/operations-manager"
+        },
+        {
+            "job_id": "2301558",
+            "role": "Associate Site Merchandiser",
+            "location": "KA, Bengaluru",
+            "link-extension": "/en/jobs/2301558/associate-site-merchandiser"
+        },
+        {
+            "job_id": "2301557",
+            "role": "Account Management Executive, IN RLAM",
+            "location": "KA, Bangalore",
+            "link-extension": "/en/jobs/2301557/account-management-executive-in-rlam"
+        },
+        {
+            "job_id": "2301547",
+            "role": "Sales Associate, Direct Sales, 02F-Kolkata.",
+            "location": "TS, Kolkata",
+            "link-extension": "/en/jobs/2301547/sales-associate-direct-sales-02f-kolkata"
+        },
+        {
+            "job_id": "2301545",
+            "role": "L&D Specialist",
+            "location": "KA, Bengaluru",
+            "link-extension": "/en/jobs/2301545/l-d-specialist"
+        },
+        {
+            "job_id": "2301544",
+            "role": "Process Associate",
+            "location": "TN, Chennai",
+            "link-extension": "/en/jobs/2301544/process-associate"
+        },
+        {
+            "job_id": "2301530",
+            "role": "Program Manager - Automation",
+            "location": "TN, Chennai",
+            "link-extension": "/en/jobs/2301530/program-manager-automation"
+        },
+        {
+            "job_id": "2301538",
+            "role": "Associate - Retail Process, CMT",
+            "location": "TN, Chennai",
+            "link-extension": "/en/jobs/2301538/associate-retail-process-cmt"
+        },
+        {
+            "job_id": "2301526",
+            "role": "Associate - Retail Process",
+            "location": "TN, Chennai",
+            "link-extension": "/en/jobs/2301526/associate-retail-process"
+        },
+        {
+            "job_id": "2301460",
+            "role": "Associate - Retail Process, Pricing Operations",
+            "location": "KA, Bangalore",
+            "link-extension": "/en/jobs/2301460/associate-retail-process-pricing-operations"
+        },
+        {
+            "job_id": "2301445",
+            "role": "Senior Operations Manager, CMT",
+            "location": "TN, Chennai",
+            "link-extension": "/en/jobs/2301445/senior-operations-manager-cmt"
+        },
+        {
+            "job_id": "2301446",
+            "role": "Manager, Program Management, CMT",
+            "location": "TN, Chennai",
+            "link-extension": "/en/jobs/2301446/manager-program-management-cmt"
+        },
+        {
+            "job_id": "2301410",
+            "role": "Manager II - Investigations, Buyer Abuse Operations",
+            "location": "TS, Hyderabad",
+            "link-extension": "/en/jobs/2301410/manager-ii-investigations-buyer-abuse-operations"
+        },
+        {
+            "job_id": "2301290",
+            "role": "Sr.Product Manager Technical",
+            "location": "TS, Hyderabad",
+            "link-extension": "/en/jobs/2301290/sr-product-manager-technical"
+        },
+        {
+            "job_id": "2301287",
+            "role": "Support Ops Manager I, ML Data Operations, FBA Support Operations",
+            "location": "KA, Bangaluru",
+            "link-extension": "/en/jobs/2301287/support-ops-manager-i-ml-data-operations-fba-support-operations"
+        },
+        {
+            "job_id": "2301286",
+            "role": "Support Ops Manager I, ML Data Operations, FBA Support Operations",
+            "location": "KA, Bangaluru",
+            "link-extension": "/en/jobs/2301286/support-ops-manager-i-ml-data-operations-fba-support-operations"
+        },
+        {
+            "job_id": "2301271",
+            "role": "Transportation Specialist Japanese",
+            "location": "TS, Hyderabad",
+            "link-extension": "/en/jobs/2301271/transportation-specialist-japanese"
+        },
+        {
+            "job_id": "2301212",
+            "role": "Account Mgmt, Associate - AE, International Seller Growth",
+            "location": "TS, Hyderabad",
+            "link-extension": "/en/jobs/2301212/account-mgmt-associate-ae-international-seller-growth"
+        },
+        {
+            "job_id": "2301216",
+            "role": "Account Manager, International Seller Growth",
+            "location": "TS, Hyderabad",
+            "link-extension": "/en/jobs/2301216/account-manager-international-seller-growth"
+        },
+        {
+            "job_id": "2301016",
+            "role": "Senior Associate, Amazon Retail India",
+            "location": "KA, Bengaluru",
+            "link-extension": "/en/jobs/2301016/senior-associate-amazon-retail-india"
+        },
+        {
+            "job_id": "2301015",
+            "role": "Catalog Assistant, Amazon Retail India",
+            "location": "KA, Bengaluru",
+            "link-extension": "/en/jobs/2301015/catalog-assistant-amazon-retail-india"
+        },
+        {
+            "job_id": "2301007",
+            "role": "Device Associate, Quality Services,  DeviceTechSuprt-eReader&Tablet",
+            "location": "TN, Chennai",
+            "link-extension": "/en/jobs/2301007/device-associate-quality-services-devicetechsuprt-ereader-tablet"
+        },
+        {
+            "job_id": "2300941",
+            "role": "Senior Hardware Engineer, Amazon Key",
+            "location": "KA, Bangalore",
+            "link-extension": "/en/jobs/2300941/senior-hardware-engineer-amazon-key"
+        },
+        {
+            "job_id": "2300900",
+            "role": "WHS Sr Associate",
+            "location": "KA, Bangalore",
+            "link-extension": "/en/jobs/2300900/whs-sr-associate"
+        },
+        {
+            "job_id": "2300901",
+            "role": "WHS Sr Associate, Road Safety",
+            "location": "KA, Bangalore",
+            "link-extension": "/en/jobs/2300901/whs-sr-associate-road-safety"
+        },
+        {
+            "job_id": "2300638",
+            "role": "Transportation Representative NOC ATS, ATS Linehaul",
+            "location": "TS",
+            "link-extension": "/en/jobs/2300638/transportation-representative-noc-ats-ats-linehaul"
+        },
+        {
+            "job_id": "2300637",
+            "role": "Transportation Representative NOC ATS, ATS Linehaul",
+            "location": "TS",
+            "link-extension": "/en/jobs/2300637/transportation-representative-noc-ats-ats-linehaul"
+        },
+        {
+            "job_id": "2300636",
+            "role": "Transportation Representative NOC ATS, ATS Linehaul",
+            "location": "TS",
+            "link-extension": "/en/jobs/2300636/transportation-representative-noc-ats-ats-linehaul"
+        },
+        {
+            "job_id": "2300635",
+            "role": "Transportation Representative NOC ATS, ATS Linehaul",
+            "location": "TS",
+            "link-extension": "/en/jobs/2300635/transportation-representative-noc-ats-ats-linehaul"
+        },
+        {
+            "job_id": "2300581",
+            "role": "Account Management Executive, IN RLAM",
+            "location": "KA, Bangalore",
+            "link-extension": "/en/jobs/2300581/account-management-executive-in-rlam"
+        },
+        {
+            "job_id": "2300577",
+            "role": "Account Management Executive, IN RLAM",
+            "location": "KA, Bangalore",
+            "link-extension": "/en/jobs/2300577/account-management-executive-in-rlam"
+        },
+        {
+            "job_id": "2300551",
+            "role": "Sr Program Manager, Shipping and Delivery Support",
+            "location": "TS, Hyderabad",
+            "link-extension": "/en/jobs/2300551/sr-program-manager-shipping-and-delivery-support"
+        },
+        {
+            "job_id": "2300550",
+            "role": "Senior Manager - Operations, Brand Protection",
+            "location": "TS, Hyderabad",
+            "link-extension": "/en/jobs/2300550/senior-manager-operations-brand-protection"
+        },
+        {
+            "job_id": "2300549",
+            "role": "Business Analyst II, APP Gift Cards",
+            "location": "KA, Bangalore",
+            "link-extension": "/en/jobs/2300549/business-analyst-ii-app-gift-cards"
+        },
+        {
+            "job_id": "2300548",
+            "role": "Sales Associate, NLS",
+            "location": "DL, Delhi",
+            "link-extension": "/en/jobs/2300548/sales-associate-nls"
+        },
+        {
+            "job_id": "2300547",
+            "role": "Sales Associate, NLS",
+            "location": "DL, Delhi",
+            "link-extension": "/en/jobs/2300547/sales-associate-nls"
+        },
+        {
+            "job_id": "2300543",
+            "role": "WHS OFFICER, Sortation WHS",
+            "location": "HR, Manesar",
+            "link-extension": "/en/jobs/2300543/whs-officer-sortation-whs"
+        },
+        {
+            "job_id": "2300535",
+            "role": "Account Manager, Global Channel Sales",
+            "location": "KA, Bengaluru",
+            "link-extension": "/en/jobs/2300535/account-manager-global-channel-sales"
+        },
+        {
+            "job_id": "2300525",
+            "role": "Transportation Specialist, ATS Linehaul",
+            "location": "TS",
+            "link-extension": "/en/jobs/2300525/transportation-specialist-ats-linehaul"
+        },
+        {
+            "job_id": "2300518",
+            "role": "Transportation Representative NOC IB",
+            "location": "TS, Hyderabad",
+            "link-extension": "/en/jobs/2300518/transportation-representative-noc-ib"
+        },
+        {
+            "job_id": "2300509",
+            "role": "Transportation Representative NOC IB",
+            "location": "TS, Hyderabad",
+            "link-extension": "/en/jobs/2300509/transportation-representative-noc-ib"
+        },
+        {
+            "job_id": "2300489",
+            "role": "SLP Specialist, INSLP",
+            "location": "HR",
+            "link-extension": "/en/jobs/2300489/slp-specialist-inslp"
+        },
+        {
+            "job_id": "2300254",
+            "role": "Sr. Program Manager",
+            "location": "TS, Hyderabad",
+            "link-extension": "/en/jobs/2300254/sr-program-manager"
+        },
+        {
+            "job_id": "2300170",
+            "role": "BDM - IN2EU - Private Brands, Global Channels Sales - VAR",
+            "location": "KA, Bengaluru",
+            "link-extension": "/en/jobs/2300170/bdm-in2eu-private-brands-global-channels-sales-var"
+        },
+        {
+            "job_id": "2300169",
+            "role": "Sales Specialist - IN2EU - Global Sales, Global Channels Sales - VAR",
+            "location": "KA, Bengaluru",
+            "link-extension": "/en/jobs/2300169/sales-specialist-in2eu-global-sales-global-channels-sales-var"
+        },
+        {
+            "job_id": "2300062",
+            "role": "Accounting Analyst",
+            "location": "KA, Bengaluru",
+            "link-extension": "/en/jobs/2300062/accounting-analyst"
+        },
+        {
+            "job_id": "2300050",
+            "role": "Operations Specialist, IN MFN & Local Shops",
+            "location": "KA, Bengaluru",
+            "link-extension": "/en/jobs/2300050/operations-specialist-in-mfn-local-shops"
+        },
+        {
+            "job_id": "2300034",
+            "role": "Account Mgmt Associate-Italian",
+            "location": "TS, Hyderabad",
+            "link-extension": "/en/jobs/2300034/account-mgmt-associate-italian"
+        },
+        {
+            "job_id": "2300017",
+            "role": "Business  Analyst, GlowRoad",
+            "location": "KA, Bangalore",
+            "link-extension": "/en/jobs/2300017/business-analyst-glowroad"
+        },
+        {
+            "job_id": "2300008",
+            "role": "Transportation Representative NOC IB",
+            "location": "TS, Hyderabad",
+            "link-extension": "/en/jobs/2300008/transportation-representative-noc-ib"
+        },
+        {
+            "job_id": "2300001",
+            "role": "SDE III",
+            "location": "KA, Bangalore",
+            "link-extension": "/en/jobs/2300001/sde-iii"
+        },
+        {
+            "job_id": "2299984",
+            "role": "Principal Growth Program Lead, Amazon miniTV, Amazon miniTV",
+            "location": "KA, Bengaluru",
+            "link-extension": "/en/jobs/2299984/principal-growth-program-lead-amazon-minitv-amazon-minitv"
+        },
+        {
+            "job_id": "2299967",
+            "role": "Data Analyst, Local Shops",
+            "location": "KA, Bengaluru",
+            "link-extension": "/en/jobs/2299967/data-analyst-local-shops"
+        },
+        {
+            "job_id": "2299963",
+            "role": "Digital Content Associate",
+            "location": "TN, Chennai",
+            "link-extension": "/en/jobs/2299963/digital-content-associate"
+        },
+        {
+            "job_id": "2299929",
+            "role": "QAT, Quality Services, Tablet Product Software",
+            "location": "TN, Chennai",
+            "link-extension": "/en/jobs/2299929/qat-quality-services-tablet-product-software"
+        },
+        {
+            "job_id": "2299930",
+            "role": "QAT, Quality Services, Tablet Product Software",
+            "location": "TN, Chennai",
+            "link-extension": "/en/jobs/2299930/qat-quality-services-tablet-product-software"
+        },
+        {
+            "job_id": "2299792",
+            "role": "Workforce Management System Administrator, CTPS Shared Services",
+            "location": "KA, Bangalore",
+            "link-extension": "/en/jobs/2299792/workforce-management-system-administrator-ctps-shared-services"
+        },
+        {
+            "job_id": "2299665",
+            "role": "Listing Specialist - German",
+            "location": "TS, Hyderabad",
+            "link-extension": "/en/jobs/2299665/listing-specialist-german"
+        },
+        {
+            "job_id": "2299475",
+            "role": "Risk Management Specialist",
+            "location": "TN, Chennai",
+            "link-extension": "/en/jobs/2299475/risk-management-specialist"
+        },
+        {
+            "job_id": "2299452",
+            "role": "Software Development Engineer I",
+            "location": "KA, Bengaluru",
+            "link-extension": "/en/jobs/2299452/software-development-engineer-i"
+        },
+        {
+            "job_id": "2299447",
+            "role": "Sales Associate",
+            "location": "MH, Mumbai",
+            "link-extension": "/en/jobs/2299447/sales-associate"
+        },
+        {
+            "job_id": "2299446",
+            "role": "Sales Associate",
+            "location": "MH, Mumbai",
+            "link-extension": "/en/jobs/2299446/sales-associate"
+        },
+        {
+            "job_id": "2299451",
+            "role": "Software Development Engineer II",
+            "location": "KA, Bengaluru",
+            "link-extension": "/en/jobs/2299451/software-development-engineer-ii"
+        },
+        {
+            "job_id": "2299427",
+            "role": "RME Coordinator, RME",
+            "location": "HR, Gurgaon",
+            "link-extension": "/en/jobs/2299427/rme-coordinator-rme"
+        },
+        {
+            "job_id": "2299352",
+            "role": "RME Coordinator",
+            "location": "HR, Gurgaon",
+            "link-extension": "/en/jobs/2299352/rme-coordinator"
+        },
+        {
+            "job_id": "2299351",
+            "role": "SLP SPECIALIST Lucknow, INSLP",
+            "location": "UP, Diss. Unnao",
+            "link-extension": "/en/jobs/2299351/slp-specialist-lucknow-inslp"
+        },
+        {
+            "job_id": "2299219",
+            "role": "SDE-Software Dev Engineer (L5), Ring HW/SW",
+            "location": "IND",
+            "link-extension": "/en/jobs/2299219/sde-software-dev-engineer-l5-ring-hw-sw"
+        },
+        {
+            "job_id": "2299218",
+            "role": "SDE-Software Dev Engineer (L5), Ring HW/SW",
+            "location": "IND",
+            "link-extension": "/en/jobs/2299218/sde-software-dev-engineer-l5-ring-hw-sw"
+        },
+        {
+            "job_id": "2299238",
+            "role": "Associate, Quality Services, Project Santos",
+            "location": "TN, Chennai",
+            "link-extension": "/en/jobs/2299238/associate-quality-services-project-santos"
+        },
+        {
+            "job_id": "2299239",
+            "role": "Associate, Quality Services, Project Santos",
+            "location": "TN, Chennai",
+            "link-extension": "/en/jobs/2299239/associate-quality-services-project-santos"
+        },
+        {
+            "job_id": "2299214",
+            "role": "SDE-Software Dev Engineer (L5), Ring HW/SW",
+            "location": "IND",
+            "link-extension": "/en/jobs/2299214/sde-software-dev-engineer-l5-ring-hw-sw"
+        },
+        {
+            "job_id": "2299216",
+            "role": "SDE-Software Dev Engineer (L5), Ring HW/SW",
+            "location": "IND",
+            "link-extension": "/en/jobs/2299216/sde-software-dev-engineer-l5-ring-hw-sw"
+        },
+        {
+            "job_id": "2299208",
+            "role": "Associate, Quality Services, Project Santos",
+            "location": "TN, Chennai",
+            "link-extension": "/en/jobs/2299208/associate-quality-services-project-santos"
+        },
+        {
+            "job_id": "2299207",
+            "role": "Associate, Quality Services, Project Santos",
+            "location": "TN, Chennai",
+            "link-extension": "/en/jobs/2299207/associate-quality-services-project-santos"
+        },
+        {
+            "job_id": "2299217",
+            "role": "SDE-Software Dev Engineer (L5), Ring HW/SW",
+            "location": "IND",
+            "link-extension": "/en/jobs/2299217/sde-software-dev-engineer-l5-ring-hw-sw"
+        },
+        {
+            "job_id": "2299215",
+            "role": "SDE-Software Dev Engineer (L5), Ring HW/SW",
+            "location": "IND",
+            "link-extension": "/en/jobs/2299215/sde-software-dev-engineer-l5-ring-hw-sw"
+        },
+        {
+            "job_id": "2299194",
+            "role": "SDE-Software Dev Engineer (L5), Ring HW/SW",
+            "location": "IND",
+            "link-extension": "/en/jobs/2299194/sde-software-dev-engineer-l5-ring-hw-sw"
+        },
+        {
+            "job_id": "2298726",
+            "role": "Program Manager II, Operations Analytics, Analytics Operations & Programs",
+            "location": "TS, Hyderabad",
+            "link-extension": "/en/jobs/2298726/program-manager-ii-operations-analytics-analytics-operations-programs"
+        },
+        {
+            "job_id": "2298681",
+            "role": "Associate, Quality Services, QS, AIX QS",
+            "location": "TN, Chennai",
+            "link-extension": "/en/jobs/2298681/associate-quality-services-qs-aix-qs"
+        },
+        {
+            "job_id": "2298680",
+            "role": "Associate, Quality Services, QS, AIX QS",
+            "location": "TN, Chennai",
+            "link-extension": "/en/jobs/2298680/associate-quality-services-qs-aix-qs"
+        },
+        {
+            "job_id": "2298679",
+            "role": "Sales Associate, Fba Upsell",
+            "location": "DL, Delhi",
+            "link-extension": "/en/jobs/2298679/sales-associate-fba-upsell"
+        },
+        {
+            "job_id": "2298678",
+            "role": "Device Associate, Quality Services,  DeviceTechSuprt-eReader&Tablet",
+            "location": "TN, Chennai",
+            "link-extension": "/en/jobs/2298678/device-associate-quality-services-devicetechsuprt-ereader-tablet"
+        },
+        {
+            "job_id": "2298675",
+            "role": "Application Engineer, Device OS",
+            "location": "KA, Bangalore",
+            "link-extension": "/en/jobs/2298675/application-engineer-device-os"
+        },
+        {
+            "job_id": "2298673",
+            "role": "Application Engineer, Device OS",
+            "location": "KA, Bangalore",
+            "link-extension": "/en/jobs/2298673/application-engineer-device-os"
+        },
+        {
+            "job_id": "2298194",
+            "role": "Software Dev Engineer III (Level 6), DEP",
+            "location": "KA, Bangalore",
+            "link-extension": "/en/jobs/2298194/software-dev-engineer-iii-level-6-dep"
+        },
+        {
+            "job_id": "2298037",
+            "role": "ML Data Associate-I, Alexa Data Services (ADS)",
+            "location": "TS, Hyderabad",
+            "link-extension": "/en/jobs/2298037/ml-data-associate-i-alexa-data-services-ads"
+        },
+        {
+            "job_id": "2297940",
+            "role": "Sr. Program Manager, Network Loss, Network Loss",
+            "location": "KA, Bengaluru",
+            "link-extension": "/en/jobs/2297940/sr-program-manager-network-loss-network-loss"
+        },
+        {
+            "job_id": "2297900",
+            "role": "Program Manager, Network Loss, Network Loss",
+            "location": "KA, Bengaluru",
+            "link-extension": "/en/jobs/2297900/program-manager-network-loss-network-loss"
+        },
+        {
+            "job_id": "2297801",
+            "role": "Team Lead",
+            "location": "UP, Diss. Unnao",
+            "link-extension": "/en/jobs/2297801/team-lead"
+        },
+        {
+            "job_id": "2297751",
+            "role": "Team Lead - Fulfillment centre, Team Leader Operations",
+            "location": "TS, Hyderabad",
+            "link-extension": "/en/jobs/2297751/team-lead-fulfillment-centre-team-leader-operations"
+        },
+        {
+            "job_id": "2297735",
+            "role": "Sales Associate, Fba Upsell",
+            "location": "DL, Delhi",
+            "link-extension": "/en/jobs/2297735/sales-associate-fba-upsell"
+        },
+        {
+            "job_id": "2297159",
+            "role": "Business Analyst, Last Mile Analytics & Quality (LMAQ)",
+            "location": "TS, Hyderabad",
+            "link-extension": "/en/jobs/2297159/business-analyst-last-mile-analytics-quality-lmaq"
+        },
+        {
+            "job_id": "2297108",
+            "role": "Sales Associate , Intl Seller Growth",
+            "location": "TS, Hyderabad",
+            "link-extension": "/en/jobs/2297108/sales-associate-intl-seller-growth"
+        },
+        {
+            "job_id": "2296975",
+            "role": "Executive Inquiry Leader, ECR VP Inquiries (VPI) team",
+            "location": "KA, Bengaluru",
+            "link-extension": "/en/jobs/2296975/executive-inquiry-leader-ecr-vp-inquiries-vpi-team"
+        },
+        {
+            "job_id": "2296954",
+            "role": "Account Mgmt, Associate - AE, International Seller Growth",
+            "location": "TS, Hyderabad",
+            "link-extension": "/en/jobs/2296954/account-mgmt-associate-ae-international-seller-growth"
+        },
+        {
+            "job_id": "2296934",
+            "role": "SellerFlex Operation Executive",
+            "location": "TN, Tirupur",
+            "link-extension": "/en/jobs/2296934/sellerflex-operation-executive"
+        },
+        {
+            "job_id": "2296921",
+            "role": "Business Analyst, Subscribe & Save",
+            "location": "KA, Bengaluru",
+            "link-extension": "/en/jobs/2296921/business-analyst-subscribe-save"
+        },
+        {
+            "job_id": "2296919",
+            "role": "Associate, Quality Services",
+            "location": "TN, Chennai",
+            "link-extension": "/en/jobs/2296919/associate-quality-services"
+        },
+        {
+            "job_id": "2296914",
+            "role": "WHS Sr Associate",
+            "location": "KA, Bangalore",
+            "link-extension": "/en/jobs/2296914/whs-sr-associate"
+        },
+        {
+            "job_id": "2296896",
+            "role": "Operations Manager III, L6",
+            "location": "MH, Pune",
+            "link-extension": "/en/jobs/2296896/operations-manager-iii-l6"
+        },
+        {
+            "job_id": "2296864",
+            "role": "Associate Program Manager, OOC",
+            "location": "KA, Bengaluru",
+            "link-extension": "/en/jobs/2296864/associate-program-manager-ooc"
+        },
+        {
+            "job_id": "2296638",
+            "role": "Transportation Representative, ORSA",
+            "location": "TS, Hyderabad",
+            "link-extension": "/en/jobs/2296638/transportation-representative-orsa"
+        },
+        {
+            "job_id": "2296635",
+            "role": "Transportation Specialist",
+            "location": "KA, Bengaluru",
+            "link-extension": "/en/jobs/2296635/transportation-specialist"
+        },
+        {
+            "job_id": "2296414",
+            "role": "Testing Associate",
+            "location": "TN, Chennai",
+            "link-extension": "/en/jobs/2296414/testing-associate"
+        }
+    ]
+}

@@ -1,4 +1,4 @@
-module.exports = (jobData, company) => {
+module.exports = (jobData, company, career_page_url) => {
   var axios = require('axios');
   var data = '{\r\n    \r\n}';
   require('dotenv').config()
@@ -8,12 +8,14 @@ module.exports = (jobData, company) => {
   
   var config = {
     method: 'get',
-    url: `${BASEURL}/companies?filters[company_name][$eq]=${company}`,
+    url: `${BASEURL}/companies?filters[name][$eq]=${company}`,
     headers: { 
       'Content-Type': 'text/plain'
     },
     data : data
   };
+
+  
   
   axios(config)
   .then(function (response) {
@@ -22,8 +24,9 @@ module.exports = (jobData, company) => {
         "data": {
           "job_id": jobData.job_id,
           "location": jobData.location,
-          "link": jobData.link,
-          "company": response.data.data[0].id
+          "link": career_page_url + jobData['link-extension'],
+          "company": response.data.data[0].id,
+          "designation": jobData.role
         }
       });
     

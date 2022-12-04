@@ -16,7 +16,7 @@ app.get('/', (req, res)=>{
     res.send('success')
 })
 ///  company data imported
-const amazon = require('./input/amazon.json')
+const amazon = require('./input/amazon_data.json')
 
 app.post('/api/job', (req, res) => {
     getJobData(req, res)
@@ -31,25 +31,18 @@ app.post('/api/search/company', (req, res) => {
 })
 
 app.get('/api/insert/job/amazon', (req, res)=>{
-    for (let index = 0; index < amazon.length; index++) {
-        postJobData(amazon[index], "Amazon")
+
+    console.log(amazon.data.length);
+    for (let index = 1; index < amazon.data.length; index++) {
+        
+        postJobData(amazon.data[index], amazon.company, amazon.career_page_url)
     }
     res.json({
         "status": "Executed",
         "total-job": amazon.length ,
-        "data": {
-            amazon
-        }
     })
+
 })
-
-
-
-
-// app.post('/api/savejob', (req, res) =>{
-//     console.log(req.body.data);
-//     postJobData(res, req.body.data)
-// })
 
 app.listen(PORT, ()=>{
     console.log(`app running on port ${PORT}`);
